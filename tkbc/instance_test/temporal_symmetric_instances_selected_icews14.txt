@@ -1,0 +1,1352 @@
+head	relation	tail	time
+Japan	Consult	Philippines	2014-04-24
+China	Engage in diplomatic cooperation	Fiji	2014-08-19
+Arseniy Yatsenyuk	Consult	Joseph Robinette Biden	2014-07-29
+Governor (Thailand)	Consult	Gen Prayut Chan-o-cha	2014-09-15
+Ministry (Kuwait)	Consult	Sabah Khaled Al-Hamad Al-Sabah	2014-11-09
+Hannes Swoboda	Engage in negotiation	Fotis Kouvelis	2014-03-07
+Abdel Fattah Al-Sisi	Sign formal agreement	Xi Jinping	2014-12-23
+Benjamin Netanyahu	Consult	John Kerry	2014-07-24
+Government (Syria)	Sign formal agreement	Armed Rebel (Syria)	2014-05-02
+Pham Binh Minh	Consult	Foreign Affairs (Slovakia)	2014-03-27
+Abdel Fattah Al-Sisi	Consult	Giorgio Napolitano	2014-11-26
+Mike Pence	Consult	Benjamin Netanyahu	2014-12-29
+Armenia	Consult	Kazakhstan	2014-07-18
+Pham Binh Minh	Consult	Government Official (United States)	2014-05-09
+Malaysia	Consult	China	2014-03-13
+France	Sign formal agreement	China	2014-07-07
+Governor (Kenya)	Consult	Pokot	2014-12-15
+Justice Department/Ministery (Azerbaijan)	Sign formal agreement	Iran	2014-04-20
+China	Engage in diplomatic cooperation	Sierra Leone	2014-05-01
+North Atlantic Treaty Organization	Sign formal agreement	Mohamad Hanif Atmar	2014-09-30
+North Korea	Engage in negotiation	Japan	2014-08-10
+William Ruto	Consult	Abdiweli Sheikh Ahmed	2014-02-20
+Head of Government (Ethiopia)	Engage in negotiation	Demeke Mekonnen	2014-09-15
+South Korea	Consult	China	2014-04-29
+Media (India)	Consult	Member of Parliament (India)	2014-02-17
+Mevlut Cavusoglu	Consult	Mohammad Javad Zarif	2014-12-18
+Jean-Yves Le Drian	Consult	Macky Sall	2014-10-24
+Ma Ying Jeou	Consult	Media Personnel (China)	2014-09-26
+Yasuo Fukuda	Consult	Xi Jinping	2014-10-28
+Vietnam	Sign formal agreement	Iran	2014-10-19
+Joseph Kabila	Meet at a 'third' location	John Kerry	2014-05-06
+Foreign Affairs (United States)	Consult	Julien Paluku Kahongya	2014-06-23
+Japan	Engage in diplomatic cooperation	Vietnam	2014-12-26
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-04-09
+Qatar	Engage in diplomatic cooperation	Iran	2014-12-01
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-03-07
+Sergio Massa	Consult	Rudy Giuliani	2014-03-27
+Military Personnel (Yemen)	Consult	Police (Yemen)	2014-04-30
+Interfax	Discuss by telephone	Ministry (France)	2014-02-20
+William Ruto	Consult	Okoth Obado	2014-09-19
+Aero Vodochody	Engage in negotiation	Iraq	2014-03-21
+Japan	Engage in negotiation	South Korea	2014-03-20
+Benjamin Netanyahu	Engage in negotiation	John Kerry	2014-07-23
+Daily Trust	Consult	Pogu Bitrus	2014-06-16
+Cabinet / Council of Ministers / Advisors (United States)	Discuss by telephone	ITAR TASS	2014-03-15
+Iran	Consult	China	2014-11-18
+France	Engage in negotiation	Canada	2014-06-06
+Military (North Korea)	Consult	South Korea	2014-03-06
+Andrej Kiska	Consult	Joachim Gauck	2014-07-23
+Irakli Alasania	Consult	Foreign Affairs (Georgia)	2014-08-26
+Benjamin Netanyahu	Engage in negotiation	John Kerry	2014-03-31
+Iran	Consult	France	2014-06-16
+China	Engage in diplomatic cooperation	Japan	2014-09-10
+Indigenous People (United States)	Consult	Government (Haiti)	2014-07-20
+Japan	Engage in negotiation	South Korea	2014-02-18
+Member of the Judiciary (Kyrgyzstan)	Consult	Protester (Kyrgyzstan)	2014-06-23
+Iran	Consult	Kazakhstan	2014-06-03
+France	Engage in diplomatic cooperation	Romania	2014-02-07
+Armenia	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-09-05
+Rashid Gumarovich Nurgaliyev	Consult	Sergey Viktorovich Lavrov	2014-03-13
+Head of Government (Ukraine)	Engage in negotiation	City Mayor (Ukraine)	2014-10-27
+Benjamin Netanyahu	Discuss by telephone	Barack Obama	2014-07-12
+China	Consult	Japan	2014-07-02
+Joseph Robinette Biden	Consult	Arseniy Yatsenyuk	2014-04-23
+Murtala Nyako	Consult	Daily Trust	2014-05-14
+Laos	Engage in diplomatic cooperation	China	2014-06-10
+South Korea	Consult	Iran	2014-05-02
+Kayode Aderanti	Consult	Media (Nigeria)	2014-11-03
+Portugal	Sign formal agreement	France	2014-04-18
+South Korea	Consult	Foreign Affairs (South Korea)	2014-01-21
+France	Sign formal agreement	Jean Qahwaji	2014-12-16
+Serbia	Sign formal agreement	Canada	2014-09-02
+Police (Saudi Arabia)	Consult	Other Authorities / Officials (United States)	2014-10-21
+Citizen (India)	Express intent to cooperate	Court Judge (India)	2014-02-21
+Xi Jinping	Discuss by telephone	Barack Obama	2014-03-10
+Ministry (Kyrgyzstan)	Sign formal agreement	Labor Union (Kyrgyzstan)	2014-01-25
+Foreign Affairs (Ukraine)	Consult	Foreign Affairs (Czech Republic)	2014-11-21
+Evangelos Venizelos	Express intent to cooperate	Antonis Samaras	2014-09-30
+China	Consult	Head of Government (Taiwan)	2014-02-18
+Yu Zhengsheng	Consult	Lawmaker (Japan)	2014-06-24
+Liberal Party (Hong Kong)	Express intent to cooperate	Lawmaker (Hong Kong)	2014-12-05
+Vietnam	Engage in diplomatic cooperation	China	2014-10-28
+Irakli Alasania	Consult	Foreign Affairs (United States)	2014-01-27
+Japan Self-Defense Forces	Discuss by telephone	Interfax	2014-04-15
+Sam Nda-Isaiah	Engage in negotiation	Muhammadu Buhari	2014-01-29
+Myanmar	Sign formal agreement	Thailand	2014-05-02
+Bolivia	Consult	Tajikistan	2014-04-21
+Daily Trust	Consult	Adebisi Akande	2014-08-11
+Barack Obama	Engage in negotiation	Iran	2014-05-15
+Japan	Sign formal agreement	France	2014-03-15
+Thailand	Express intent to cooperate	Cambodia	2014-10-17
+Prayuth Chan-ocha	Consult	Company - Owner or Operator (Thailand)	2014-08-18
+Radoslaw Sikorski	Consult	Sergey Viktorovich Lavrov	2014-06-08
+Head of Government (Egypt)	Engage in negotiation	Mohamed Ould Abdel Aziz	2014-06-26
+China	Engage in diplomatic cooperation	Tajikistan	2014-04-18
+Iran	Engage in diplomatic cooperation	China	2014-06-24
+Foreign Affairs (Latvia)	Meet at a 'third' location	Head of Government (Latvia)	2014-11-26
+Representatives (Sudan)	Consult	Sudan	2014-09-02
+Sheikh Hasina Wajed	Consult	Media (Japan)	2014-05-22
+Representatives (United States)	Consult	Iran	2014-11-19
+Government (Madagascar)	Consult	Head of Government (Madagascar)	2014-10-16
+Joseph Robinette Biden	Express intent to cooperate	Massoud Barzani	2014-07-09
+James Wani Igga	Consult	Foreign Affairs (Norway)	2014-12-19
+City Mayor (Philippines)	Consult	Employee (Philippines)	2014-06-19
+Hamas	Discuss by telephone	Hezbollah	2014-07-24
+Media (Pakistan)	Consult	Inspector General (Pakistan)	2014-12-29
+Mohammad Javad Zarif	Consult	Wendy Sherman	2014-05-17
+Qatar	Consult	Abdel Fattah Al-Sisi	2014-12-21
+Oman	Meet at a 'third' location	Bahrain	2014-12-10
+Ishaq Dar	Consult	International Monetary Fund	2014-02-09
+Federica Mogherini	Express intent to cooperate	Sergey Viktorovich Lavrov	2014-12-06
+Antonis Samaras	Engage in negotiation	Nicos Anastasiades	2014-02-07
+Zhang Dejiang	Consult	Ashraf Ghani Ahmadzai	2014-10-29
+Nuri al-Maliki	Consult	Iraq	2014-06-23
+Salvador Sánchez Cerén	Consult	Raúl Castro	2014-04-13
+Massoud Barzani	Consult	Iran	2014-07-17
+Media (India)	Consult	Fishermen (India)	2014-11-21
+Julie Bishop	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-08-12
+Adams Oshiomhole	Consult	Head of Government (Nigeria)	2014-01-30
+Foreign Affairs (Ukraine)	Consult	Foreign Affairs (Russia)	2014-03-04
+Ricardo Echegaray	Sign formal agreement	City Mayor (Argentina)	2014-10-02
+Police (United States)	Consult	Mohammad Javad Zarif	2014-09-21
+Benjamin Netanyahu	Consult	Barack Obama	2014-02-16
+Sergey Viktorovich Lavrov	Discuss by telephone	Kazakhstan	2014-03-17
+Media Personnel (France)	Discuss by telephone	Associated Press	2014-01-16
+China	Sign formal agreement	Malaysia	2014-09-15
+Sergey Viktorovich Lavrov	Consult	Future Movement	2014-01-13
+Elmar Mammadyarov	Consult	Armenia	2014-12-04
+Tamar Beruchashvili	Consult	Foreign Affairs (Latvia)	2014-11-26
+Gazprom	Sign formal agreement	OMV	2014-06-27
+Giorgio Napolitano	Consult	Elizabeth II	2014-04-02
+Ashraf Ghani Ahmadzai	Sign formal agreement	Abdullah Abdullah	2014-07-14
+North Atlantic Treaty Organization	Consult	Ashraf Ghani Ahmadzai	2014-11-06
+Royal Administration (Nigeria)	Consult	Media (Africa)	2014-10-13
+Sauli Niinistö	Consult	Elmar Mammadyarov	2014-05-16
+John Kerry	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-01-31
+Foreign Affairs (United States)	Consult	Seyran Ohanyan	2014-11-25
+City Mayor (Argentina)	Sign formal agreement	Military (Argentina)	2014-11-19
+Ministry (Iran)	Consult	Ministry (Tunisia)	2014-05-10
+Nicos Anastasiades	Consult	Evangelos Venizelos	2014-10-06
+Japan	Consult	South Korea	2014-09-26
+Head of Government (Turkmenistan)	Consult	Ministry (Turkey)	2014-10-27
+Julie Bishop	Meet at a 'third' location	North Atlantic Treaty Organization	2014-09-04
+North Korea	Engage in negotiation	Japan	2014-03-05
+Sauli Niinistö	Consult	Head of Government (Ukraine)	2014-08-18
+Iraq	Engage in diplomatic cooperation	Iran	2014-10-21
+Kashim Shettima	Consult	Ministry (Nigeria)	2014-04-14
+Victor Ponta	Consult	Xi Jinping	2014-09-02
+Mohammad Javad Zarif	Consult	Sergey Viktorovich Lavrov	2014-04-22
+Mohammad Javad Zarif	Consult	Catherine Ashton	2014-01-26
+Foreign Affairs (South Korea)	Consult	Police (Philippines)	2014-08-13
+Sergey Viktorovich Lavrov	Consult	Nuri al-Maliki	2014-02-20
+China	Express intent to cooperate	Serbia	2014-12-13
+Morocco	Consult	International Monetary Fund	2014-05-09
+Afghanistan	Sign formal agreement	Tajikistan	2014-01-31
+Education Ministry (Saudi Arabia)	Consult	Representatives (Saudi Arabia)	2014-12-23
+Iraq	Sign formal agreement	Iran	2014-10-25
+Arseniy Yatsenyuk	Consult	Joseph Robinette Biden	2014-03-13
+Foreign Affairs (Antigua and Barbuda)	Consult	Nabih Berri	2014-10-30
+Japan	Engage in diplomatic cooperation	South Korea	2014-02-08
+Foreign Affairs (United States)	Consult	Yariv Levin	2014-02-27
+Foreign Affairs (United States)	Consult	Saud bin Faisal bin Abdul-Aziz	2014-10-25
+Citizen (India)	Consult	Court Judge (India)	2014-09-24
+Imran Khan	Sign formal agreement	Government (Pakistan)	2014-08-15
+China	Consult	South Africa	2014-06-03
+Armenia	Consult	Kazakhstan	2014-07-10
+Citizen (Venezuela)	Express intent to cooperate	Leopoldo López	2014-04-14
+Representatives (Togo)	Consult	Office of the United Nations High Commissioner for Human Rights	2014-02-21
+Media (Pakistan)	Consult	Rehman Malik	2014-10-27
+Yasuo Fukuda	Consult	Xi Jinping	2014-08-28
+Student (Mexico)	Consult	Tony Blair	2014-10-22
+Federica Mogherini	Engage in negotiation	Sergey Viktorovich Lavrov	2014-07-15
+Vietnam	Consult	China	2014-07-12
+Lawyer/Attorney (Kenya)	Consult	Court Judge (Kenya)	2014-09-05
+François Hollande	Engage in negotiation	Barack Obama	2014-07-30
+Salil Shetty	Meet at a 'third' location	Kamalesh Sharma	2014-02-05
+Benjamin Netanyahu	Engage in negotiation	Barack Obama	2014-10-01
+Mohammad Javad Zarif	Consult	Catherine Ashton	2014-03-10
+European Parliament	Consult	France	2014-02-25
+Iran	Engage in diplomatic cooperation	China	2014-07-08
+Iraq	Sign formal agreement	Iran	2014-12-11
+China	Consult	South Korea	2014-06-30
+Nuri al-Maliki	Consult	Representatives (Iraq)	2014-05-11
+Iran	Express intent to cooperate	Vietnam	2014-10-15
+Catherine Ashton	Consult	John Kerry	2014-05-06
+Government (Angola)	Sign formal agreement	Education Ministry (Angola)	2014-01-23
+Vietnam	Engage in diplomatic cooperation	Association of Southeast Asian Nations	2014-09-15
+Royal Administration (Saudi Arabia)	Engage in negotiation	Nasser Judeh	2014-12-24
+China	Consult	Nuri al-Maliki	2014-02-23
+Canada	Sign formal agreement	United Arab Emirates	2014-04-19
+Election Commission (India)	Consult	Communist Party of India	2014-04-11
+Defense / Security Ministry (Iraq)	Engage in negotiation	Iraq	2014-10-23
+Hannes Swoboda	Consult	Iran	2014-01-30
+Xi Jinping	Consult	Vincent C. Siew	2014-11-11
+John Kerry	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-10-14
+Economic Cooperation Organization	Consult	Mahmoud Ahmadinejad	2014-02-07
+Iran	Engage in diplomatic cooperation	China	2014-06-22
+Priest (United States)	Consult	Mohammad Javad Zarif	2014-12-10
+Japan	Engage in negotiation	North Korea	2014-07-19
+Japan	Engage in diplomatic cooperation	South Korea	2014-09-16
+Iran	Engage in diplomatic cooperation	Iraq	2014-12-29
+Ministry (South Africa)	Consult	Steve Vukhile Tshwete	2014-09-16
+Juan Carlos Pinzon	Meet at a 'third' location	Defense / Security Ministry (United States)	2014-10-10
+Kuwait	Consult	Oman	2014-07-11
+National Council for Peace and Order of Thailand	Consult	Media (Thailand)	2014-06-30
+Ri Su Yong	Engage in negotiation	Pham Binh Minh	2014-08-06
+Thailand	Sign formal agreement	Vietnam	2014-11-28
+Tony Tan Keng Yam	Consult	Didier Burkhalter	2014-05-08
+Angola	Meet at a 'third' location	African Union	2014-04-29
+John Kerry	Consult	Xi Jinping	2014-02-17
+Japan	Engage in negotiation	South Korea	2014-08-25
+City Mayor (Croatia)	Consult	Hannes Swoboda	2014-05-20
+Foreign Affairs (United States)	Consult	China	2014-03-05
+Sudan	Consult	Eritrea	2014-05-08
+Abdel Fattah Al-Sisi	Consult	Head of Government (Egypt)	2014-11-13
+Iran	Engage in diplomatic cooperation	Philippines	2014-07-11
+John Kerry	Express intent to cooperate	Catherine Ashton	2014-04-19
+Member of Parliament (India)	Consult	Media (India)	2014-10-05
+China	Consult	South Korea	2014-06-17
+Japan	Engage in diplomatic cooperation	Association of Southeast Asian Nations	2014-08-05
+Victor Ponta	Consult	China	2014-09-25
+Head of Government (Bahrain)	Consult	Labor and Employment Ministry (Bahrain)	2014-02-12
+United Arab Emirates	Express intent to cooperate	Qatar	2014-06-05
+John Kerry	Consult	Abdullah Abdullah	2014-09-03
+Nabih Berri	Meet at a 'third' location	Organisation of Islamic Cooperation	2014-02-18
+Salman Khurshid	Consult	Kapil Sibal	2014-01-10
+Ashraf Ghani Ahmadzai	Consult	Barack Obama	2014-07-26
+Admiral (Romania)	Consult	Romania	2014-11-18
+Japan	Express intent to cooperate	South Korea	2014-09-11
+Heydar Aliyev	Consult	Government Official (Greece)	2014-06-15
+Philip Hammond	Consult	John Kerry	2014-11-18
+Nabih Berri	Consult	David Hale	2014-12-23
+France	Engage in negotiation	Iran	2014-11-20
+Legislature (South Africa)	Consult	Elizabeth Dipuo Peters	2014-02-18
+France	Consult	Canada	2014-09-16
+Iran	Consult	Iraq	2014-12-09
+Evangelos Venizelos	Consult	Antonis Samaras	2014-01-25
+Iran	Engage in diplomatic cooperation	Oman	2014-01-29
+Mahinda Rajapaksa	Consult	Party Member (Sri Lanka)	2014-12-01
+Japan	Consult	South Korea	2014-03-20
+Benjamin Netanyahu	Consult	John Kerry	2014-06-17
+Ministry of Arts and Culture (Cameroon)	Consult	Business (Cameroon)	2014-01-23
+Kuwait	Engage in diplomatic cooperation	Japan	2014-03-11
+Employee (India)	Consult	Head of Government (India)	2014-11-26
+Head of Government (Ukraine)	Consult	People Associated with the Opposition (Ukraine)	2014-01-27
+Fumio Kishida	Consult	Hu Deping	2014-04-10
+Philippines	Express intent to cooperate	China	2014-12-06
+Thongsing Thammavong	Consult	Tony Tan Keng Yam	2014-02-21
+Police (Qatar)	Consult	Iran	2014-04-17
+Massoud Barzani	Consult	Joseph Robinette Biden	2014-06-20
+Governor (Thailand)	Discuss by telephone	Agence France-Presse	2014-08-12
+Sergey Viktorovich Lavrov	Consult	Pham Binh Minh	2014-05-16
+Abdulsalami Alhaji Abubakar	Consult	Oluṣẹgun Ọbasanjọ	2014-07-09
+France	Consult	Poland	2014-09-02
+Presidential Candidate (Bolivia)	Consult	Evo Morales	2014-03-12
+Vladimir Chizhov	Discuss by telephone	Interfax	2014-09-02
+Abdullah Abdullah	Consult	Barack Obama	2014-07-08
+Chris Olukolade	Discuss by telephone	Media (Nigeria)	2014-06-09
+Thailand	Express intent to cooperate	Vietnam	2014-12-22
+Agence France-Presse	Discuss by telephone	Gwangju District Court	2014-11-21
+Trust Bank	Sign formal agreement	Kisii	2014-05-07
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Catherine Ashton	2014-11-12
+Head of Government (Pakistan)	Consult	Government (Slovakia)	2014-06-09
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-14
+John Kerry	Meet at a 'third' location	Foreign Affairs (Russia)	2014-03-15
+Barack Obama	Consult	Royal Administration (Jordan)	2014-02-14
+National United Front for Democracy Against Dictatorship	Engage in negotiation	Thailand	2014-03-21
+Government (Argentina)	Sign formal agreement	Paris Club	2014-05-29
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-11-23
+Association of Southeast Asian Nations	Consult	Sergey Viktorovich Lavrov	2014-07-01
+Iran	Engage in diplomatic cooperation	Afghanistan	2014-09-08
+Business (Bahrain)	Consult	Student (Bahrain)	2014-02-17
+Barack Obama	Meet at a 'third' location	Head of Government (Ukraine)	2014-03-13
+Ministry (Russia)	Consult	Vietnam	2014-11-20
+Angela Merkel	Consult	Head of Government (Qatar)	2014-09-17
+Lawyer/Attorney (Australia)	Consult	Domestic Affairs (Australia)	2014-03-02
+Government (Argentina)	Sign formal agreement	Iran	2014-05-15
+Media (Africa)	Consult	Hassan Abshir Farah	2014-06-26
+Majid Takht Ravanchi	Consult	Simon Gass	2014-04-08
+Benjamin Netanyahu	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-01-05
+Daniel Mitov	Consult	Center for Strategic and International Studies	2014-09-29
+Abdel Fattah Al-Sisi	Consult	Middle East	2014-06-09
+South Korea	Engage in diplomatic cooperation	China	2014-01-08
+Abdel Fattah Al-Sisi	Engage in negotiation	Foreign Affairs (Norway)	2014-09-09
+Ministry (Egypt)	Consult	Foreign Affairs (Liberia)	2014-06-11
+France	Consult	China	2014-03-24
+Angela Merkel	Express intent to cooperate	François Hollande	2014-05-10
+Vitali Klitschko	Consult	Arseniy Yatsenyuk	2014-01-26
+Antonis Samaras	Engage in negotiation	Joseph Robinette Biden	2014-04-03
+Foreign Affairs (Ukraine)	Consult	John Kerry	2014-03-25
+Foreign Affairs (Georgia)	Consult	Gurbanguly Berdymukhammedov	2014-06-17
+Sudan	Meet at a 'third' location	Umar al Bashir	2014-01-06
+UN Security Council	Express intent to cooperate	Iran	2014-07-19
+Sauli Niinistö	Consult	Sergey Viktorovich Lavrov	2014-06-14
+Barack Obama	Engage in negotiation	Royal Administration (Saudi Arabia)	2014-02-03
+Angela Merkel	Engage in negotiation	François Hollande	2014-07-03
+Foreign Affairs (Mongolia)	Consult	Radoslaw Sikorski	2014-01-30
+Japan	Meet at a 'third' location	South Korea	2014-11-16
+Angela Merkel	Express intent to cooperate	Barack Obama	2014-03-19
+Finance / Economy / Commerce / Trade Ministry (Sudan)	Consult	Ministry (Egypt)	2014-08-13
+China	Consult	Japan	2014-04-29
+Barack Obama	Discuss by telephone	Benjamin Netanyahu	2014-07-30
+Abdel Fattah Al-Sisi	Sign formal agreement	Army Personnel (Egypt)	2014-06-09
+Cabinet / Council of Ministers / Advisors (United States)	Discuss by telephone	Sergey Viktorovich Lavrov	2014-11-23
+Mexico	Consult	Foreign Affairs (Uruguay)	2014-11-23
+South Korea	Express intent to cooperate	Association of Southeast Asian Nations	2014-12-12
+Government Official (Russia)	Consult	Dmitry Anatolyevich Medvedev	2014-10-17
+Arseniy Yatsenyuk	Consult	Jacob J. Lew	2014-02-24
+Sergey Viktorovich Lavrov	Discuss by telephone	Cabinet / Council of Ministers / Advisors (United States)	2014-04-11
+Vladimir Konstantinov	Consult	Sergey Kuzhugetovich Shoygu	2014-03-24
+Ed Royce	Consult	Fumio Kishida	2014-02-17
+Insurgent (Thailand)	Engage in negotiation	National Council for Peace and Order of Thailand	2014-07-10
+François Hollande	Consult	Angela Merkel	2014-02-20
+Head of Government (Qatar)	Meet at a 'third' location	Envoy (Saudi Arabia)	2014-08-27
+Raheel Sharif	Consult	John Kerry	2014-12-07
+Media Personnel (Zimbabwe)	Consult	Army Personnel (Zimbabwe)	2014-02-22
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-11-29
+Irakli Alasania	Consult	Congress (United States)	2014-05-07
+Barack Obama	Consult	Angela Merkel	2014-07-04
+Federica Mogherini	Discuss by telephone	Foreign Affairs (Russia)	2014-09-01
+Head of Government (Afghanistan)	Consult	Ministry (Afghanistan)	2014-12-09
+Guatemala	Consult	Carlos Raúl Morales	2014-11-01
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-07-12
+China	Consult	Tajikistan	2014-05-20
+Associated Press	Consult	Ashraf Ghani Ahmadzai	2014-04-03
+Envoy (United States)	Consult	Foreign Affairs (Hungary)	2014-12-03
+Media (Africa)	Discuss by telephone	Citizen (Nigeria)	2014-02-14
+Silvio Berlusconi	Consult	Giorgio Napolitano	2014-02-15
+Angela Merkel	Consult	Head of Government (Ukraine)	2014-12-14
+UN Security Council	Consult	Keiji Furuya	2014-06-30
+Eda Rivas	Consult	Sergey Viktorovich Lavrov	2014-05-01
+Jack Straw	Consult	Iran	2014-01-09
+Foreign Affairs (Latvia)	Consult	Refat Chubarov	2014-07-23
+Government (Argentina)	Express intent to cooperate	Education (Argentina)	2014-08-11
+Iran	Engage in diplomatic cooperation	Armenia	2014-05-12
+Associated Press	Consult	Activist (Nigeria)	2014-05-27
+Representatives (United States)	Consult	Iran	2014-01-09
+Japan	Consult	North Korea	2014-03-04
+Government Affiliated Bank (Bahrain)	Consult	Representatives (Bahrain)	2014-12-02
+South Korea	Consult	Japan	2014-12-29
+Thailand	Engage in diplomatic cooperation	China	2014-07-14
+Barack Obama	Consult	Milos Zeman	2014-06-04
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Catherine Ashton	2014-10-18
+Yemi Osinbajo	Consult	Company - Owner or Operator (Nigeria)	2014-12-29
+Cabinet / Council of Ministers / Advisors (United States)	Meet at a 'third' location	Saud bin Faisal bin Abdul-Aziz	2014-11-24
+John Kerry	Meet at a 'third' location	Foreign Affairs (Russia)	2014-01-14
+Abdullah Abdullah	Consult	Raheel Sharif	2014-11-06
+Iran	Engage in diplomatic cooperation	China	2014-07-11
+Government (Nigeria)	Sign formal agreement	Academic Staff Union of Universities	2014-04-11
+Luis Alberto Lacalle	Express intent to cooperate	Pablo Mieres	2014-08-20
+Mohammad Javad Zarif	Meet at a 'third' location	Catherine Ashton	2014-06-17
+Indigenous People (Nigeria)	Consult	Vanguard	2014-01-13
+North Korea	Engage in negotiation	Japan	2014-04-04
+Abdel Fattah Al-Sisi	Express intent to cooperate	Umar al Bashir	2014-10-19
+Cabinet / Council of Ministers / Advisors (Thailand)	Consult	Prayuth Chan-ocha	2014-08-30
+Mahinda Rajapaksa	Express intent to cooperate	Xi Jinping	2014-09-16
+Ministry (Croatia)	Consult	Business (Croatia)	2014-03-25
+Joseph Robinette Biden	Consult	Irakli Alasania	2014-05-08
+Algirdas Butkevičius	Consult	China	2014-01-28
+Head of Government (Nigeria)	Consult	Ministry (Nigeria)	2014-05-19
+Iran	Engage in diplomatic cooperation	Mexico	2014-12-03
+Government (Nigeria)	Sign formal agreement	Boko Haram	2014-10-27
+Phung Quang Thanh	Engage in negotiation	Military (China)	2014-10-18
+Morocco	Engage in diplomatic cooperation	France	2014-05-24
+Mohammad Javad Zarif	Consult	China	2014-11-01
+Le Luong Minh	Consult	Sergey Viktorovich Lavrov	2014-07-04
+Guinea	Engage in diplomatic cooperation	Morocco	2014-02-04
+South Africa	Sign formal agreement	Mexico	2014-10-21
+Inter-Services Intelligence	Consult	John Campbell	2014-12-22
+North Atlantic Treaty Organization	Sign formal agreement	Afghanistan	2014-10-02
+Barack Obama	Consult	Toomas Hendrik Ilves	2014-02-21
+Joseph Robinette Biden	Consult	Head of Government (Latvia)	2014-04-30
+Chuck Hagel	Consult	Julie Bishop	2014-08-19
+Salvador Sánchez Cerén	Consult	Joseph Robinette Biden	2014-07-26
+Riek Machar	Engage in negotiation	Umar al Bashir	2014-08-10
+Association of Southeast Asian Nations	Sign formal agreement	Japan	2014-11-12
+Kivutha Kibwana	Consult	Citizen (Kenya)	2014-02-20
+China	Sign formal agreement	Malaysia	2014-05-24
+Maldives	Express intent to cooperate	Japan	2014-04-16
+Portugal	Engage in diplomatic cooperation	Iran	2014-10-08
+Armenia	Consult	Iran	2014-10-22
+Xi Jinping	Express intent to cooperate	Islam Karimov	2014-08-19
+Guenther Oettinger	Engage in negotiation	Alexei Miller	2014-08-30
+Iran	Engage in negotiation	Bertie Ahern	2014-02-04
+Vesna Pusić	Consult	North Atlantic Treaty Organization	2014-12-01
+Ashraf Ghani Ahmadzai	Sign formal agreement	China	2014-11-01
+Head of Government (Ukraine)	Express intent to cooperate	John Kerry	2014-12-05
+Governor (Kenya)	Consult	Media (Africa)	2014-10-01
+Julie Bishop	Engage in negotiation	John Kerry	2014-08-11
+Citizen (Tanzania)	Consult	Jakaya Mrisho Kikwete	2014-09-02
+Sabah Khaled Al-Hamad Al-Sabah	Consult	Foreign Affairs (Kuwait)	2014-03-25
+Rafael Ramírez	Consult	Dmitry Olegovich Rogozin	2014-12-15
+Labor and Employment Ministry (Palestinian Territory, Occupied)	Consult	Ahmad Majdalani	2014-03-20
+Malaysia	Consult	Thailand	2014-12-03
+Foreign Affairs (United States)	Consult	Al Wefaq National Islamic Society	2014-07-11
+Philip Hammond	Consult	Haider Al-Abadi	2014-10-13
+John Kerry	Consult	Benjamin Netanyahu	2014-04-10
+Saud bin Faisal bin Abdul-Aziz	Meet at a 'third' location	Mohammad Javad Zarif	2014-09-22
+Iran	Consult	Tajikistan	2014-03-26
+Imran Khan	Consult	Protester (Pakistan)	2014-08-14
+Benjamin Netanyahu	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-01-08
+Sergey Viktorovich Lavrov	Consult	Foreign Affairs (Ukraine)	2014-03-26
+Japan	Engage in negotiation	North Korea	2014-05-30
+New Zealand	Sign formal agreement	South Korea	2014-12-22
+John Kerry	Consult	Mohammad Javad Zarif	2014-09-27
+Oman	Engage in diplomatic cooperation	Iran	2014-11-30
+Brownie Samukai	Consult	Defense / Security Ministry (United States)	2014-09-09
+China	Express intent to cooperate	Japan	2014-11-12
+France	Engage in diplomatic cooperation	Iran	2014-02-07
+Head of Government (Bangladesh)	Consult	Mohammad Javad Zarif	2014-08-05
+Gabriel Torwua Suswam	Consult	Head of Government (Nigeria)	2014-02-04
+Pietro Parolin	Consult	Ma Ying Jeou	2014-10-22
+People Associated with the Opposition (Lithuania)	Consult	Andrius Kubilius	2014-01-15
+Japan	Consult	South Korea	2014-11-13
+Mamnoon Hussain	Consult	Head of Government (Afghanistan)	2014-10-17
+Ministry (Croatia)	Sign formal agreement	Business (Croatia)	2014-11-21
+Vietnam	Express intent to cooperate	China	2014-12-26
+Foreign Affairs (Russia)	Consult	Foreign Affairs (Syria)	2014-10-17
+Kazakhstan	Consult	Iraq	2014-04-11
+Herve Ladsous	Consult	UN Security Council	2014-03-07
+John Kerry	Meet at a 'third' location	Benjamin Netanyahu	2014-12-16
+International Monetary Fund	Meet at a 'third' location	Anders Borg	2014-04-14
+National Unity Party (Somalia)	Consult	Indigenous People (Somalia)	2014-12-01
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Ashraf Ghani Ahmadzai	2014-08-11
+Vanguard	Consult	Other Authorities / Officials (Nigeria)	2014-06-17
+Barack Obama	Consult	Benjamin Netanyahu	2014-07-18
+Senate (Argentina)	Consult	Sergio Massa	2014-11-15
+Barack Obama	Consult	Angela Merkel	2014-03-05
+Rafael Correa	Consult	Guatemala	2014-08-19
+China	Consult	France	2014-03-19
+New Zealand	Sign formal agreement	China	2014-11-17
+Arseniy Yatsenyuk	Consult	John Kerry	2014-02-01
+China	Consult	South Africa	2014-07-23
+Royal Administration (Saudi Arabia)	Consult	Xi Jinping	2014-03-15
+Morteza Sarmadi	Consult	Legislature (Spain)	2014-07-16
+Heraldo Muñoz	Consult	Sergey Viktorovich Lavrov	2014-04-30
+Pervez Musharraf	Consult	Special Court (Pakistan)	2014-02-11
+Japan	Engage in negotiation	South Korea	2014-07-28
+Colombia	Sign formal agreement	South Korea	2014-04-30
+Malaysia	Consult	Barack Obama	2014-04-28
+François Hollande	Discuss by telephone	Massoud Barzani	2014-08-07
+France	Sign formal agreement	Poland	2014-03-03
+Ministry (Croatia)	Consult	Labor Union (Croatia)	2014-03-25
+Police (New Zealand)	Discuss by telephone	Maurice Williamson	2014-05-02
+North Atlantic Treaty Organization	Consult	Taavi Rõivas	2014-11-20
+Sindh High Court	Consult	Pervez Musharraf	2014-03-12
+Abdullah Abdullah	Sign formal agreement	Ashraf Ghani Ahmadzai	2014-09-29
+Xi Jinping	Sign formal agreement	Barack Obama	2014-12-09
+Arseniy Yatsenyuk	Consult	Joseph Robinette Biden	2014-03-01
+Morteza Sarmadi	Consult	Foreign Affairs (Norway)	2014-04-08
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-05-31
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-08
+Student (Hong Kong)	Engage in negotiation	Carrie Lam	2014-10-07
+Representatives (United States)	Consult	Paul Kagame	2014-01-26
+Head of Government (Ukraine)	Express intent to cooperate	North Atlantic Treaty Organization	2014-09-04
+France	Consult	Poland	2014-02-24
+Edgars Rinkevics	Consult	Foreign Affairs (Belarus)	2014-02-28
+Other Authorities / Officials (China)	Consult	Japan	2014-06-27
+Yannis Stournaras	Consult	Evangelos Venizelos	2014-01-24
+Head of Government (Egypt)	Consult	News Editor (Egypt)	2014-08-24
+Morocco	Meet at a 'third' location	France	2014-11-21
+Daniel Mitov	Consult	Foreign Affairs (United States)	2014-08-21
+North Korea	Engage in negotiation	Japan	2014-06-19
+Court Judge (Kenya)	Consult	Lawyer/Attorney (Kenya)	2014-10-17
+Mohammad Javad Zarif	Consult	Patrick Dewael	2014-09-02
+Agence France-Presse	Sign formal agreement	Abdullah Abdullah	2014-09-21
+Chuck Hagel	Discuss by telephone	Defense / Security Ministry (Russia)	2014-04-28
+Foreign Affairs (Russia)	Consult	Sergey Viktorovich Lavrov	2014-03-03
+Ashraf Ghani Ahmadzai	Consult	Foreign Affairs (Russia)	2014-12-29
+China	Engage in negotiation	Japan	2014-10-21
+Xi Jinping	Consult	Barack Obama	2014-11-16
+Mohammad Javad Zarif	Consult	Catherine Ashton	2014-02-20
+Barack Obama	Consult	African Union	2014-08-07
+Jackson Mandago	Consult	Media (Africa)	2014-05-07
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-11-24
+France	Consult	Foreign Affairs (Israel)	2014-01-16
+Lawyer/Attorney (Dominican Republic)	Consult	Lawyer/Attorney (Holy See (Vatican City State))	2014-12-03
+Ismet Yilmaz	Consult	Irakli Alasania	2014-08-18
+Mohamed Ould Abdel Aziz	Express intent to cooperate	Ibrahim Boubacar Keïta	2014-01-12
+Other Authorities / Officials (Egypt)	Engage in negotiation	International Monetary Fund	2014-06-07
+United Arab Emirates	Engage in diplomatic cooperation	Serbia	2014-09-12
+Barack Obama	Consult	Haider Al-Abadi	2014-09-25
+African Union	Meet at a 'third' location	Michael Sata	2014-02-03
+Other Authorities / Officials (Egypt)	Consult	Hamas	2014-07-09
+House Armed Services Committee	Consult	Yen Ming	2014-08-07
+Tahirul Qadri	Consult	Al Jazeera	2014-08-14
+Economic Community of Central African States	Engage in diplomatic cooperation	African Union	2014-02-18
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-01-20
+Foreign Affairs (Nepal)	Consult	Fumio Kishida	2014-10-08
+Nuri al-Maliki	Consult	Ahmad Khalaf al-Dulaimi	2014-01-14
+Business (Iran)	Engage in negotiation	Iran	2014-05-09
+Børge Brende	Engage in negotiation	John Dramani Mahama	2014-11-03
+Patricia de Lille	Consult	Lindiwe Nonceba Sisulu	2014-06-11
+China	Engage in diplomatic cooperation	Association of Southeast Asian Nations	2014-04-21
+Xi Jinping	Consult	Barack Obama	2014-07-17
+Foreign Affairs (Belarus)	Engage in negotiation	Sergey Viktorovich Lavrov	2014-11-19
+François Hollande	Engage in negotiation	Barack Obama	2014-02-11
+Jeffrey Fowle	Engage in negotiation	North Korea	2014-10-22
+Iran	Engage in diplomatic cooperation	Iraq	2014-11-19
+Military Personnel (Thailand)	Consult	Jatuporn Prompan	2014-05-29
+Police (South Sudan)	Consult	Kuol Manyang Juuk	2014-02-05
+Luiz Inacio Lula Da Silva	Consult	Roberto Amaral	2014-08-15
+Iran	Express intent to cooperate	United Arab Emirates	2014-04-15
+Mohammad Javad Zarif	Consult	Foreign Affairs (Singapore)	2014-02-25
+Iraq	Sign formal agreement	Iran	2014-05-18
+Taavi Rõivas	Consult	Valdis Dombrovskis	2014-12-22
+Ethiopia	Express intent to cooperate	Eritrea	2014-06-02
+Abdel Fattah Al-Sisi	Express intent to cooperate	Umar al Bashir	2014-10-20
+Militant (ETA)	Consult	Daily Monitor	2014-02-23
+Academic Staff Union of Universities	Sign formal agreement	Government (Nigeria)	2014-12-10
+Mohammad Javad Zarif	Engage in negotiation	Iran	2014-03-19
+Philippines	Consult	Pham Binh Minh	2014-10-17
+Sergey Viktorovich Lavrov	Meet at a 'third' location	Cabinet / Council of Ministers / Advisors (United States)	2014-12-03
+Joseph Robinette Biden	Consult	Head of Government (Ukraine)	2014-04-22
+Agence France-Presse	Discuss by telephone	Media Personnel (Japan)	2014-02-23
+Iran	Engage in diplomatic cooperation	United Arab Emirates	2014-04-18
+Mexico	Engage in negotiation	Angola	2014-10-20
+Secretary of State for the Home Department	Consult	Media (India)	2014-10-23
+Ministry (France)	Consult	François Hollande	2014-03-26
+Iran	Engage in diplomatic cooperation	Kuwait	2014-11-27
+John Kerry	Meet at a 'third' location	Abdel Fattah Al-Sisi	2014-09-13
+Canada	Engage in diplomatic cooperation	Haiti	2014-12-09
+Joseph Kabila	Consult	François Hollande	2014-05-22
+Party Member (Afghanistan)	Consult	Election Commission (Afghanistan)	2014-05-06
+Iraq	Sign formal agreement	Iran	2014-11-26
+Middle East	Consult	Ministry (South Africa)	2014-11-13
+Sergey Viktorovich Lavrov	Consult	John Kerry	2014-12-14
+Mohammad Javad Zarif	Consult	Hezbollah	2014-07-27
+Kuwait	Engage in diplomatic cooperation	Canada	2014-12-11
+Mevlut Cavusoglu	Consult	Sergey Viktorovich Lavrov	2014-12-02
+Businessperson (United Kingdom)	Consult	The Standard	2014-06-16
+Governor (Chile)	Sign formal agreement	Juan del Granado	2014-03-01
+Canada	Meet at a 'third' location	Barack Obama	2014-02-20
+Paolo Gentiloni	Consult	Sergey Viktorovich Lavrov	2014-11-12
+Angela Merkel	Consult	Barack Obama	2014-06-23
+Japan	Consult	South Korea	2014-07-27
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Benjamin Netanyahu	2014-07-23
+Iran	Engage in negotiation	Armenia	2014-05-06
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-06-22
+Ministry (Iran)	Consult	Business (Austria)	2014-01-27
+Dmitry Olegovich Rogozin	Engage in negotiation	Wang Yang	2014-05-19
+Dmitry Anatolyevich Medvedev	Consult	Arseniy Yatsenyuk	2014-03-01
+Benjamin Netanyahu	Consult	Likud	2014-11-12
+Head of Government (Ukraine)	Consult	Joseph Robinette Biden	2014-11-21
+Japan	Engage in diplomatic cooperation	China	2014-03-08
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-02-01
+Ashraf Ghani Ahmadzai	Meet at a 'third' location	Abdullah Abdullah	2014-12-01
+Government (France)	Express intent to cooperate	Information / Communication / Transparency Ministry (Egypt)	2014-05-17
+Chuck Hagel	Meet at a 'third' location	North Atlantic Treaty Organization	2014-03-06
+Joseph Kabila	Engage in negotiation	France	2014-05-21
+Ministry (Egypt)	Engage in negotiation	Abdel Fattah Al-Sisi	2014-09-16
+Kazakhstan	Engage in diplomatic cooperation	Poland	2014-02-19
+Foreign Affairs (United States)	Consult	Abdullah Abdullah	2014-07-03
+Fijilive	Consult	Fiji	2014-11-19
+Ashraf Ghani Ahmadzai	Sign formal agreement	Abdullah Abdullah	2014-09-15
+Barack Obama	Meet at a 'third' location	Xi Jinping	2014-03-27
+Axel Kicillof	Consult	Cristina Fernández de Kirchner	2014-11-13
+John Kerry	Consult	Massoud Barzani	2014-06-25
+China	Consult	Malaysia	2014-08-28
+John Kerry	Engage in negotiation	Head of Government (Ethiopia)	2014-05-02
+Jean-Yves Le Drian	Consult	Chuck Hagel	2014-02-11
+Argentine Industrial Union	Consult	Héctor Méndez	2014-02-09
+Sergey Kuzhugetovich Shoygu	Engage in negotiation	Bratislav Gasic	2014-05-23
+Ethiopia	Consult	African Union	2014-11-08
+Victor Ponta	Consult	Ministry (Romania)	2014-02-26
+Lamure Latour	Consult	Agustín Rossi	2014-02-22
+John Kerry	Consult	Ma Ying Jeou	2014-07-02
+Ogaden National Liberation Front	Consult	Media (Africa)	2014-11-11
+Arseniy Yatsenyuk	Consult	Radoslaw Sikorski	2014-07-16
+Victoria Nuland	Consult	Nicos Anastasiades	2014-02-04
+Presidential Candidate (Afghanistan)	Engage in negotiation	John Kerry	2014-07-13
+South Africa	Sign formal agreement	China	2014-11-13
+Milos Zeman	Engage in negotiation	Party Member (Czech Republic)	2014-03-17
+South Korea	Consult	China	2014-01-21
+John Kerry	Consult	Catherine Ashton	2014-11-09
+John Kerry	Engage in negotiation	Mohammad Javad Zarif	2014-09-22
+Sergey Viktorovich Lavrov	Engage in negotiation	John Kerry	2014-03-05
+Cabinet / Council of Ministers / Advisors (United States)	Express intent to cooperate	Sergey Viktorovich Lavrov	2014-07-19
+Oman	Engage in diplomatic cooperation	Iran	2014-12-01
+Julie Bishop	Engage in negotiation	John Kerry	2014-08-12
+China	Consult	Vietnam	2014-12-27
+Julie Bishop	Consult	Cabinet / Council of Ministers / Advisors (Australia)	2014-09-29
+Ministry (Sri Lanka)	Engage in negotiation	Mahinda Rajapaksa	2014-07-09
+Mohammad Javad Zarif	Engage in negotiation	Undersecretary (United States)	2014-11-19
+Environment Department/Ministry (Egypt)	Consult	Ministry (Egypt)	2014-03-02
+Liu Zhenmin	Consult	North Korea	2014-02-22
+China	Engage in diplomatic cooperation	Cameroon	2014-12-30
+Iraq	Engage in diplomatic cooperation	Other Authorities / Officials (Lebanon)	2014-12-03
+Tajikistan	Engage in diplomatic cooperation	Qatar	2014-09-19
+Dissident (Iran)	Consult	Catherine Ashton	2014-03-13
+Representatives (Poland)	Consult	Ministry (Poland)	2014-11-03
+International Monetary Fund	Consult	Joseph Robinette Biden	2014-11-21
+Riek Machar	Engage in negotiation	Umar al Bashir	2014-08-11
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-05-03
+South Korea	Consult	Japan	2014-03-30
+Daniel Ortega	Engage in negotiation	Sergey Viktorovich Lavrov	2014-04-30
+Japan	Engage in negotiation	Mohammad Javad Zarif	2014-03-01
+Daniel Mitov	Express intent to cooperate	Amr Mohammed Moussa	2014-10-12
+Massoud Barzani	Meet at a 'third' location	Middle East	2014-07-15
+Election Commission (Bulgaria)	Engage in negotiation	Lyutvi Mestan	2014-05-28
+Government Official (Greece)	Engage in negotiation	International Monetary Fund	2014-02-24
+Foreign Affairs (Rwanda)	Consult	UN Security Council	2014-01-25
+Gazprom	Sign formal agreement	China	2014-12-18
+Arseniy Yatsenyuk	Consult	Jens Stoltenberg	2014-12-15
+Mohammad Javad Zarif	Consult	Resistance Leader (Palestinian Territory, Occupied)	2014-01-17
+Herve Ladsous	Consult	UN Security Council	2014-12-09
+Barack Obama	Consult	Poland	2014-06-04
+José Miguel Insulza	Express intent to cooperate	Head of Government (Guatemala)	2014-09-19
+Tzipi Livni	Consult	Martin Indyk	2014-04-06
+François Hollande	Engage in negotiation	Salman Bin-Abd-al-Aziz	2014-11-17
+Legislature (Lebanon)	Consult	Nabih Berri	2014-12-12
+Barack Obama	Consult	Abdel Fattah Al-Sisi	2014-09-25
+Jackson Mandago	Express intent to cooperate	Citizen (Kenya)	2014-06-27
+Businessperson (Africa)	Engage in negotiation	Barack Obama	2014-09-01
+Bahrain	Sign formal agreement	United Arab Emirates	2014-04-19
+Iran	Engage in negotiation	Kofi Annan	2014-01-31
+John Kerry	Discuss by telephone	Foreign Affairs (Russia)	2014-02-22
+Pham Binh Minh	Consult	Sergey Viktorovich Lavrov	2014-04-17
+Police (South Africa)	Discuss by telephone	Murderer (South Africa)	2014-04-08
+Foreign Affairs (United States)	Consult	Benjamin Netanyahu	2014-04-02
+Qatar	Engage in diplomatic cooperation	Iran	2014-04-17
+Yannis Stournaras	Consult	Antonis Samaras	2014-05-23
+Xi Jinping	Sign formal agreement	Barack Obama	2014-12-01
+Viktor Orban	Consult	Joseph Robinette Biden	2014-04-27
+United Arab Emirates	Meet at a 'third' location	Oman	2014-12-10
+Iran	Sign formal agreement	China	2014-12-17
+Arseniy Yatsenyuk	Consult	Head of Government (Ukraine)	2014-10-29
+Ministry (Iran)	Consult	Iran	2014-04-06
+China	Consult	Bolivia	2014-06-15
+South Korea	Engage in diplomatic cooperation	Japan	2014-03-09
+John Baird	Consult	Military (Kuwait)	2014-10-13
+Cabinet / Council of Ministers / Advisors (Hungary)	Consult	Edgars Rinkevics	2014-12-10
+Ministry (Romania)	Engage in negotiation	Victor Ponta	2014-12-14
+Ministry of Tourism (Turkey)	Consult	Representatives (Turkey)	2014-06-04
+Sultan Ahmed bin Sulayem	Consult	Ministry of Tourism (Maldives)	2014-09-14
+Nuri al-Maliki	Consult	Sergey Viktorovich Lavrov	2014-02-21
+Will Hodgman	Consult	Member of Parliament (Australia)	2014-03-16
+Didier Burkhalter	Consult	Fumio Kishida	2014-02-06
+Governor (Kenya)	Express intent to cooperate	Citizen (Kenya)	2014-04-24
+Military Personnel (Finland)	Consult	Helsingin Sanomat	2014-06-03
+Andrew Robb	Consult	Koya Nishikawa	2014-03-17
+Japan	Express intent to cooperate	China	2014-08-09
+Iran	Sign formal agreement	China	2014-07-04
+John Kerry	Express intent to cooperate	Sergey Viktorovich Lavrov	2014-03-05
+Police (Indonesia)	Express intent to cooperate	Citizen (Indonesia)	2014-01-10
+Nicos Anastasiades	Consult	Joseph Robinette Biden	2014-11-03
+Raúl Castro	Sign formal agreement	China	2014-07-23
+Nuri al-Maliki	Consult	Joseph Robinette Biden	2014-01-08
+Umar al Bashir	Consult	Isaias Afewerki	2014-05-08
+Canada	Consult	Jason Kenney	2014-03-04
+Xi Jinping	Consult	Head of Government (India)	2014-07-25
+Head of Government (Nigeria)	Consult	Barack Obama	2014-05-05
+China	Consult	South Korea	2014-04-12
+Henry Rotich	Sign formal agreement	Exim Bank	2014-05-11
+Iran	Engage in negotiation	Foreign Affairs (Belgium)	2014-02-23
+Chuck Hagel	Consult	Iraq	2014-12-09
+Campbell Newman	Consult	Police (Australia)	2014-12-15
+France	Consult	China	2014-07-08
+Alik L. Alik	Consult	Zhang Dejiang	2014-10-15
+Iran	Consult	Japan	2014-03-01
+François Hollande	Consult	Taavi Rõivas	2014-07-08
+Angola	Consult	Governor (Angola)	2014-09-05
+John Kerry	Consult	Iraq	2014-09-10
+Joseph Robinette Biden	Consult	Haider Al-Abadi	2014-08-26
+François Hollande	Express intent to cooperate	Angela Merkel	2014-10-18
+Citizen (Sudan)	Consult	Media (Africa)	2014-03-06
+South Africa	Consult	China	2014-07-07
+Sergey Viktorovich Lavrov	Consult	Catherine Ashton	2014-02-21
+Business (Iran)	Engage in negotiation	Iran	2014-05-07
+Council of Europe	Consult	Elmar Mammadyarov	2014-05-08
+John Kerry	Consult	Catherine Ashton	2014-03-06
+Central Bank of Libya	Meet at a 'third' location	Foreign Affairs (United States)	2014-12-18
+Drug Gang (Mexico)	Consult	Drug Enforcement Administration	2014-01-14
+Angela Merkel	Consult	François Hollande	2014-10-17
+Mohammad Javad Zarif	Consult	Member of Legislative (Govt) (Lebanon)	2014-01-13
+Iran	Sign formal agreement	Iraq	2014-02-26
+John Kerry	Consult	Mohammad Javad Zarif	2014-11-23
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-09-25
+Zakir Hasanov	Consult	Irakli Alasania	2014-08-18
+Benjamin Netanyahu	Consult	Angela Merkel	2014-02-24
+Main Opposition (Sri Lanka)	Sign formal agreement	Health Ministry (Sri Lanka)	2014-12-01
+Ashraf Ghani Ahmadzai	Express intent to cooperate	Abdullah Abdullah	2014-09-09
+Verkhovna Rada	Sign formal agreement	European Parliament	2014-12-04
+Federica Mogherini	Consult	Pavlo Klimkin	2014-11-17
+Head of Government (Pakistan)	Consult	Royal Administration (Pakistan)	2014-02-16
+Chongwadai	Engage in negotiation	Park Won-soon	2014-07-23
+Cameroon	Sign formal agreement	Gambia	2014-01-13
+Niger	Consult	Sierra Leone	2014-06-02
+Lawrence Springborg	Consult	Bureaucrat (Australia)	2014-03-07
+International Monetary Fund	Engage in negotiation	Mauritania	2014-02-14
+Michael Sata	Consult	Military Personnel (Zambia)	2014-09-20
+Johnny Araya Monge	Consult	Head of Government (Costa Rica)	2014-02-27
+Iran	Engage in negotiation	UN Security Council	2014-05-30
+Mohammad Javad Zarif	Consult	Iraq	2014-01-28
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-07-27
+Will Hodgman	Consult	Bureaucrat (Australia)	2014-03-16
+France	Meet at a 'third' location	Chuck Hagel	2014-10-02
+Government (Syria)	Sign formal agreement	Armed Rebel (Syria)	2014-05-07
+Iran	Sign formal agreement	Mexico	2014-09-17
+Elmar Mammadyarov	Consult	Anifah Aman	2014-06-06
+Axel Kicillof	Consult	Mauro Borges	2014-04-30
+Ashraf Ghani Ahmadzai	Discuss by telephone	John Kerry	2014-07-08
+Mohammad Javad Zarif	Consult	Iraq	2014-08-26
+Employee (India)	Consult	Member of Parliament (India)	2014-06-13
+Emal Faizi	Discuss by telephone	Afghanistan	2014-05-11
+Head of Government (China)	Consult	Xi Jinping	2014-11-10
+Business (Iran)	Consult	France	2014-02-06
+Defense / Security Ministry (United States)	Discuss by telephone	Sergey Kuzhugetovich Shoygu	2014-04-30
+Uhuru Muigai Kenyatta	Engage in negotiation	United Arab Emirates	2014-11-26
+Tajikistan	Consult	Xi Jinping	2014-11-09
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-06-06
+Citizen (Nigeria)	Express intent to cooperate	Bala Ngilari	2014-12-31
+Royal Administration (Saudi Arabia)	Consult	Umar al Bashir	2014-10-10
+Citizen (Indonesia)	Express intent to cooperate	Citizen (Australia)	2014-01-09
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-09-19
+Barack Obama	Consult	Angela Merkel	2014-05-02
+Angela Merkel	Engage in negotiation	Arseniy Yatsenyuk	2014-02-18
+France	Engage in diplomatic cooperation	Armenia	2014-03-14
+Massoud Barzani	Discuss by telephone	Joseph Robinette Biden	2014-08-08
+Umar al Bashir	Consult	Sergey Viktorovich Lavrov	2014-12-03
+Iran	Engage in negotiation	Government (United States)	2014-12-11
+Mallam Isa Yuguda	Consult	Vanguard	2014-03-03
+Iran	Engage in diplomatic cooperation	France	2014-02-10
+Barack Obama	Engage in negotiation	Xi Jinping	2014-10-19
+John Kerry	Discuss by telephone	Benjamin Netanyahu	2014-03-19
+Other Authorities / Officials (Nigeria)	Consult	Media (Africa)	2014-07-28
+John Kerry	Consult	Xi Jinping	2014-02-15
+Foreign Affairs (Syria)	Consult	Middle East	2014-01-15
+Romania	Engage in diplomatic cooperation	Iran	2014-01-08
+Defense / Security Ministry (Egypt)	Sign formal agreement	Rosoboronexport	2014-09-24
+Lawmaker (Latvia)	Consult	Dimitris Kourkoulas	2014-01-27
+Sudan	Consult	Ethiopia	2014-08-29
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-07
+Cameroon	Express intent to cooperate	Niger	2014-05-23
+Qatar	Consult	Vietnam	2014-04-21
+Mexico	Express intent to cooperate	Canada	2014-02-21
+North Korea	Express intent to cooperate	South Korea	2014-10-04
+Benjamin Netanyahu	Consult	John Kerry	2014-03-20
+Pogu Bitrus	Consult	Daily Trust	2014-05-13
+Jakaya Mrisho Kikwete	Consult	Congo	2014-05-11
+M.K. Narayanan	Consult	Election Commission (India)	2014-05-25
+European Central Bank	Engage in negotiation	Yannis Stournaras	2014-02-24
+Djibouti	Consult	South Sudan	2014-08-25
+Armenia	Engage in negotiation	North Atlantic Treaty Organization	2014-03-28
+Iran	Engage in negotiation	RIA Novosti	2014-11-23
+Niue	Consult	Xi Jinping	2014-11-22
+Treasury/Finance Ministry (Kyrgyzstan)	Consult	Ministry (Iran)	2014-10-24
+Sergey Kuzhugetovich Shoygu	Discuss by telephone	Chuck Hagel	2014-04-28
+Muhammadu Buhari	Consult	Chibuike Rotimi Amaechi	2014-10-20
+Head of Government (Cuba)	Consult	Raúl Castro	2014-09-18
+Milos Zeman	Consult	Education Ministry (Czech Republic)	2014-07-29
+Government Official (United Kingdom)	Consult	Government Official (Ireland)	2014-12-23
+China	Consult	Hamas	2014-10-14
+China	Sign formal agreement	New Zealand	2014-11-13
+Arkady Dvorkovich	Consult	Representatives (Russia)	2014-10-08
+Imran Khan	Consult	Raheel Sharif	2014-08-29
+Barack Obama	Consult	Head of Government (Afghanistan)	2014-05-30
+Barack Obama	Engage in negotiation	Head of Government (India)	2014-09-30
+Middle East	Express intent to cooperate	Morocco	2014-10-15
+UN Security Council	Consult	Herve Ladsous	2014-03-06
+Zhang Dejiang	Engage in negotiation	Lawmaker (Japan)	2014-05-06
+Ethiopia	Engage in negotiation	Foreign Affairs (Ethiopia)	2014-01-02
+Ministry of Public Security (Vietnam)	Consult	Mahinda Rajapaksa	2014-04-09
+Iran	Consult	Oman	2014-04-23
+Sudan	Sign formal agreement	South Sudan	2014-09-27
+Representatives (Iraq)	Consult	Massoud Barzani	2014-06-18
+John Kerry	Consult	Benjamin Netanyahu	2014-07-09
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-03-09
+Joseph Robinette Biden	Engage in negotiation	Arseniy Yatsenyuk	2014-11-21
+UN Security Council	Consult	Bernardino Leon	2014-12-23
+Dimitrios Avramopoulos	Consult	Vassilis Kikilias	2014-11-10
+Foreign Affairs (United States)	Meet at a 'third' location	Tony Blair	2014-01-06
+Haider Al-Abadi	Consult	Representatives (Iraq)	2014-12-22
+Tajikistan	Consult	Iran	2014-08-28
+Education Ministry (Algeria)	Consult	Representatives (Algeria)	2014-11-17
+Pope Francis	Express intent to cooperate	Barack Obama	2014-03-27
+Ethiopia	Consult	Djibouti	2014-08-22
+Other Authorities / Officials (China)	Consult	Phung Quang Thanh	2014-05-20
+Foreign Affairs (United States)	Consult	China	2014-10-17
+Martin Stropnický	Consult	Milos Zeman	2014-08-25
+African Union	Consult	Ethiopia	2014-11-03
+Kazakhstan	Consult	Iran	2014-04-01
+Philippines	Express intent to cooperate	Japan	2014-06-27
+Military (China)	Consult	Xi Jinping	2014-08-01
+Foreign Affairs (Austria)	Engage in negotiation	Mohammad Javad Zarif	2014-04-08
+Sumitra Mahajan	Engage in negotiation	Xi Jinping	2014-09-19
+Iran	Engage in negotiation	UN Security Council	2014-11-25
+Mohammad Javad Zarif	Engage in negotiation	Catherine Ashton	2014-10-15
+Governor (Angola)	Consult	Ministry (Angola)	2014-05-01
+Algirdas Butkevičius	Consult	Congress (United States)	2014-08-22
+Barack Obama	Consult	François Hollande	2014-03-02
+North Korea	Consult	South Korea	2014-10-08
+Angola	Engage in diplomatic cooperation	China	2014-04-02
+Barack Obama	Consult	Abdullah Abdullah	2014-10-22
+Mohammad Javad Zarif	Express intent to cooperate	Salman Khurshid	2014-03-04
+Environment Department/Ministry (Kenya)	Consult	United Arab Emirates	2014-07-14
+Fang Fenghui	Consult	Joseph Robinette Biden	2014-05-16
+Japan	Express intent to cooperate	Association of Southeast Asian Nations	2014-09-04
+South Korea	Consult	Business (Iran)	2014-03-02
+Julio Cobos	Consult	Congress (Argentina)	2014-03-04
+Rashid Gumarovich Nurgaliyev	Consult	Sergey Kuzhugetovich Shoygu	2014-06-20
+Governor (India)	Consult	Media (India)	2014-06-28
+Keshari Nath Tripathi	Discuss by telephone	Head of Government (India)	2014-12-23
+Abdullah Abdullah	Consult	Barack Obama	2014-09-21
+Evangelos Venizelos	Consult	John Kerry	2014-01-18
+Head of Government (Colombia)	Engage in negotiation	Zhang Dejiang	2014-11-24
+Philippines	Sign formal agreement	Malaysia	2014-11-02
+Security Council of the Russian Federation	Consult	Presidential Aide (Kazakhstan)	2014-12-23
+Malaysia	Consult	Philippines	2014-11-19
+Iran	Consult	Kuwait	2014-09-23
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-09-24
+Jakaya Mrisho Kikwete	Consult	UN Security Council	2014-09-29
+Barack Obama	Sign formal agreement	Head of Government (Ukraine)	2014-10-06
+Retno Marsudi	Express intent to cooperate	Fumio Kishida	2014-11-08
+Xi Jinping	Express intent to cooperate	Islam Karimov	2014-08-20
+Angela Merkel	Express intent to cooperate	Barack Obama	2014-08-09
+Hamas	Consult	Nur Ahmad Nikbakht	2014-05-25
+Pierre Nkurunziza	Engage in negotiation	Uhuru Muigai Kenyatta	2014-06-09
+China	Express intent to cooperate	South Korea	2014-12-18
+Citizen (Sudan)	Consult	Media (Africa)	2014-03-24
+Oommen Chandy	Engage in negotiation	Environment Department/Ministry (India)	2014-02-01
+Iran	Engage in diplomatic cooperation	Malaysia	2014-06-17
+Ryutaro Hashimoto	Engage in diplomatic cooperation	Your Party	2014-06-05
+Ashraf Ghani Ahmadzai	Engage in diplomatic cooperation	Abdullah Abdullah	2014-11-08
+Abdullah Abdullah	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-08-11
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-05-09
+Ministry (South Africa)	Consult	Media (South Africa)	2014-10-23
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-03-18
+Isaias Afewerki	Engage in negotiation	Lapo Pistelli	2014-07-03
+Parliament of South Africa	Consult	Other Authorities / Officials (South Africa)	2014-03-10
+Serbia	Consult	Poland	2014-10-31
+Mohammad Javad Zarif	Consult	Catherine Ashton	2014-11-30
+Nuri al-Maliki	Consult	Defense / Security Ministry (Russia)	2014-07-26
+Tajikistan	Engage in negotiation	Afghanistan	2014-12-25
+Ashraf Ghani Ahmadzai	Engage in negotiation	Abdullah Abdullah	2014-07-15
+Daniel Russel	Consult	Pham Binh Minh	2014-05-08
+Barack Obama	Meet at a 'third' location	Angela Merkel	2014-03-05
+Toomas Hendrik Ilves	Consult	Representatives (Estonia)	2014-12-04
+Foreign Affairs (Italy)	Consult	Arseniy Yatsenyuk	2014-07-07
+Businessperson (United States)	Consult	Uhuru Muigai Kenyatta	2014-08-11
+Local Media (Angola)	Consult	Governor (Angola)	2014-08-18
+Morteza Sarmadi	Consult	Foreign Affairs (Norway)	2014-04-11
+Japan	Engage in negotiation	North Korea	2014-05-21
+Tajikistan	Meet at a 'third' location	Kazakhstan	2014-11-13
+France	Consult	Business (Iran)	2014-02-04
+Ethiopia	Express intent to cooperate	Sudan	2014-10-20
+Defense / Security Ministry (Iraq)	Consult	Iraq	2014-12-09
+Iran	Consult	France	2014-09-25
+China	Engage in diplomatic cooperation	Cameroon	2014-03-24
+China	Consult	South Korea	2014-04-28
+Medical Personnel (Australia)	Consult	Jack Snelling	2014-05-16
+Antonis Samaras	Consult	Evangelos Venizelos	2014-07-14
+Bahrain	Consult	Shura Council	2014-01-16
+Sergey Viktorovich Lavrov	Consult	John Kerry	2014-10-25
+John Kerry	Consult	Presidential Candidate (Afghanistan)	2014-07-13
+Joseph Robinette Biden	Engage in negotiation	Taavi Rõivas	2014-12-11
+Vitali Klitschko	Consult	John Kerry	2014-03-05
+Afghanistan	Consult	Raheel Sharif	2014-11-06
+South Korea	Express intent to cooperate	China	2014-09-21
+Cabinet / Council of Ministers / Advisors (United States)	Meet at a 'third' location	Nasser Judeh	2014-05-17
+Angela Merkel	Consult	Barack Obama	2014-05-07
+Børge Brende	Consult	Mohammad Javad Zarif	2014-09-20
+Iran	Engage in diplomatic cooperation	China	2014-05-22
+Angela Merkel	Express intent to cooperate	Barack Obama	2014-08-22
+China	Sign formal agreement	Kazakhstan	2014-05-19
+Iraq	Consult	Kuwait	2014-12-28
+Philippines	Express intent to cooperate	Citizen (Thailand)	2014-11-10
+Yulia Tymoshenko	Consult	Verkhovna Rada	2014-03-01
+Michael Sata	Consult	Shimon Peres	2014-06-25
+Ministry (Nigeria)	Consult	Media (Nigeria)	2014-05-21
+United Arab Emirates	Engage in diplomatic cooperation	Iran	2014-05-31
+Saud bin Faisal bin Abdul-Aziz	Consult	Mevlut Cavusoglu	2014-11-06
+John Kerry	Sign formal agreement	Catherine Ashton	2014-10-15
+North Atlantic Treaty Organization	Meet at a 'third' location	Head of Government (Ukraine)	2014-09-04
+Poland	Engage in diplomatic cooperation	Romania	2014-10-06
+Barack Obama	Consult	François Hollande	2014-10-13
+Senate (Romania)	Consult	Legislature (Romania)	2014-01-27
+Edgars Rinkevics	Consult	Foreign Affairs (Norway)	2014-07-30
+Armed Rebel (Yemen)	Express intent to cooperate	Combatant (Yemen)	2014-10-18
+Likud	Consult	Benjamin Netanyahu	2014-06-23
+Nigerian Bar Association	Consult	Olisa Agbakoba	2014-01-23
+Raheel Sharif	Consult	Jonathan Greenert	2014-05-13
+Mohammad Javad Zarif	Engage in negotiation	Iraq	2014-08-24
+Mohammad Javad Zarif	Consult	Organisation of Islamic Cooperation	2014-02-14
+John Kerry	Consult	Tzipi Livni	2014-01-24
+Sergey Viktorovich Lavrov	Engage in negotiation	Peter Szijjarto	2014-11-19
+Ministry (Nigeria)	Consult	Rauf Aregbesola	2014-02-27
+Abdullah Abdullah	Express intent to cooperate	Ashraf Ghani Ahmadzai	2014-07-21
+Sergey Kuzhugetovich Shoygu	Consult	City Mayor (Ukraine)	2014-03-24
+Head of Government (Bulgaria)	Engage in negotiation	Angela Merkel	2014-12-16
+John Kerry	Consult	Catherine Ashton	2014-07-13
+Daniela Bobeva	Consult	Verkhovna Rada	2014-06-07
+Other Authorities / Officials (Hong Kong)	Consult	Lawmaker (Hong Kong)	2014-12-09
+Abdelilah Benkirane	Consult	Defense / Security Ministry (Spain)	2014-11-27
+Industrial / Textiles / Mining Ministry (Malawi)	Consult	Civil Servant (Malawi)	2014-02-25
+Joseph Robinette Biden	Discuss by telephone	Nuri al-Maliki	2014-06-12
+Sergey Viktorovich Lavrov	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-03-30
+Cabinet / Council of Ministers / Advisors (United States)	Meet at a 'third' location	Head of Government (Palestinian Territory, Occupied)	2014-10-14
+Xi Jinping	Consult	Islam Karimov	2014-09-12
+Giorgio Napolitano	Consult	Abdel Fattah Al-Sisi	2014-11-25
+Ministry of Tourism (Croatia)	Consult	City Mayor (Croatia)	2014-05-02
+Foreign Affairs (South Africa)	Engage in negotiation	Iran	2014-06-16
+Foreign Affairs (United States)	Engage in negotiation	Iraq	2014-08-11
+National Security Advisor (India)	Consult	Ashraf Ghani Ahmadzai	2014-10-23
+Vitali Klitschko	Consult	Dmytro Bulatov	2014-01-31
+Hun Sen	Consult	Cambodia	2014-09-02
+Media (Africa)	Consult	Military Personnel (Kenya)	2014-11-18
+Afghanistan	Engage in diplomatic cooperation	China	2014-10-22
+Niko Peleshi	Sign formal agreement	Foreign Affairs (Italy)	2014-12-12
+Labor Union (Czech Republic)	Engage in negotiation	Ministry (Czech Republic)	2014-12-30
+Government (Pakistan)	Engage in negotiation	Imran Khan	2014-08-20
+Foreign Affairs (South Korea)	Consult	Government Official (United States)	2014-01-07
+Japan	Express intent to cooperate	Canada	2014-11-09
+Haider Al-Abadi	Consult	Defense / Security Ministry (Iraq)	2014-09-16
+Middle East	Consult	Foreign Affairs (Russia)	2014-01-09
+Ethiopia	Express intent to cooperate	China	2014-05-07
+South Africa	Consult	Head of Government (Peru)	2014-12-06
+Angela Merkel	Discuss by telephone	Massoud Barzani	2014-08-16
+Ashraf Ghani Ahmadzai	Consult	Defense / Security Ministry (United States)	2014-12-07
+International Monetary Fund	Engage in negotiation	Yannis Stournaras	2014-02-24
+Khaled Bahah	Engage in negotiation	Abdirahman Ducaale Bayle	2014-11-25
+Joseph Robinette Biden	Discuss by telephone	Arseniy Yatsenyuk	2014-09-17
+John Kerry	Consult	France	2014-10-16
+Japan	Engage in negotiation	South Korea	2014-07-02
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Presidential Candidate (Afghanistan)	2014-07-24
+Businessperson (France)	Consult	Abdel Fattah Al-Sisi	2014-11-28
+Foreign Affairs (Georgia)	Consult	Royal Administration (Saudi Arabia)	2014-09-23
+Louise Mushikiwabo	Sign formal agreement	Richard Sezibera	2014-02-26
+Akhilesh Yadav	Consult	Labor Union (India)	2014-12-20
+Benjamin Netanyahu	Consult	Barack Obama	2014-03-08
+Haider Al-Abadi	Engage in negotiation	John Kerry	2014-09-10
+Peter Szijjarto	Engage in negotiation	Sergey Viktorovich Lavrov	2014-11-21
+Catherine Ashton	Sign formal agreement	Mohammad Javad Zarif	2014-10-15
+Salvador Sánchez Cerén	Sign formal agreement	Ma Ying Jeou	2014-07-05
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-12-17
+Representatives (Switzerland)	Consult	Government (Syria)	2014-02-05
+Ashraf Ghani Ahmadzai	Consult	Foreign Affairs (Norway)	2014-11-08
+Foreign Affairs (United States)	Consult	Malaysia	2014-12-12
+Fumio Kishida	Consult	Salman Khurshid	2014-01-22
+Sergey Viktorovich Lavrov	Meet at a 'third' location	John Kerry	2014-11-08
+Vietnam	Engage in diplomatic cooperation	China	2014-10-29
+Barack Obama	Consult	Benjamin Netanyahu	2014-10-03
+Sudan	Consult	Ethiopia	2014-03-24
+Ri Su Yong	Consult	Sergey Viktorovich Lavrov	2014-10-01
+France	Express intent to cooperate	China	2014-01-16
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-05-30
+Ishaq Dar	Consult	Media (Pakistan)	2014-08-23
+Tajikistan	Consult	China	2014-12-11
+Riek Machar	Consult	Uhuru Muigai Kenyatta	2014-06-02
+Vassilis Kikilias	Consult	Police (Greece)	2014-07-18
+Sheikh Khaled Al Jarrah Al Sabah	Consult	Undersecretary (Kuwait)	2014-07-14
+Sergey Viktorovich Lavrov	Sign formal agreement	Foreign Affairs (Argentina)	2014-05-28
+Iran	Consult	Japan	2014-04-03
+Milos Zeman	Express intent to cooperate	Foreign Affairs (Czech Republic)	2014-04-14
+Space Agency (Iran)	Engage in negotiation	Air Force (Iran)	2014-05-24
+John Kerry	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-01-13
+Head of Government (Ukraine)	Consult	Angela Merkel	2014-06-30
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Haider Al-Abadi	2014-09-11
+UN Security Council	Consult	Middle East	2014-02-04
+Philippines	Consult	Thailand	2014-06-21
+Hamas	Discuss by telephone	Hezbollah	2014-07-21
+Head of Government (Guatemala)	Consult	Royal Administration (Japan)	2014-10-03
+Ma Ying Jeou	Consult	Lien Chan	2014-02-01
+Head of Government (Turkmenistan)	Consult	Mohammad Javad Zarif	2014-01-16
+Barack Obama	Discuss by telephone	Haider Al-Abadi	2014-08-13
+Antonis Samaras	Consult	Aristovoulos Spiliotopoulos	2014-02-19
+Iran	Sign formal agreement	Tajikistan	2014-12-17
+Sergey Viktorovich Lavrov	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-11-20
+John Kerry	Consult	Foreign Affairs (Middle East)	2014-06-25
+Education (Trinidad and Tobago)	Consult	Education Ministry (Philippines)	2014-01-27
+Representatives (Syria)	Consult	High Ranking Military Personnel (Syria)	2014-09-24
+Foreign Affairs (Russia)	Consult	Foreign Affairs (Czech Republic)	2014-03-02
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-03-29
+Food and Agriculture Organization	Engage in diplomatic cooperation	Iran	2014-09-06
+Royal Thai Navy	Engage in negotiation	Ministry (Thailand)	2014-12-22
+Algirdas Butkevičius	Consult	Alexei Miller	2014-02-11
+Al Jazeera	Consult	Student (Venezuela)	2014-02-25
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Julie Bishop	2014-08-11
+Agustín Rossi	Consult	City Mayor (Argentina)	2014-03-06
+China	Consult	Japan	2014-11-16
+Tzipi Livni	Consult	Martin Indyk	2014-04-03
+South Africa	Engage in diplomatic cooperation	Congo	2014-04-17
+Congress (United States)	Consult	Abdel Fattah Al-Sisi	2014-08-17
+Vietnam	Express intent to cooperate	Thailand	2014-07-17
+François Hollande	Express intent to cooperate	Angela Merkel	2014-12-17
+Julie Bishop	Engage in negotiation	John Kerry	2014-08-10
+John Kerry	Discuss by telephone	Agence France-Presse	2014-04-04
+Head of Government (China)	Consult	Dmitry Anatolyevich Medvedev	2014-10-13
+Cabinet / Council of Ministers / Advisors (United States)	Express intent to cooperate	Sergey Viktorovich Lavrov	2014-03-31
+South Africa	Express intent to cooperate	China	2014-07-16
+Fuad Masum	Consult	Joseph Robinette Biden	2014-08-11
+Iran	Consult	Simon Gass	2014-04-29
+The Cape Times	Consult	Ebrahim Patel	2014-01-15
+Sergey Kuzhugetovich Shoygu	Consult	Chuck Hagel	2014-03-20
+Dmitry Anatolyevich Medvedev	Consult	Barack Obama	2014-12-10
+Iran	Consult	Afghanistan	2014-08-12
+Ashraf Ghani Ahmadzai	Consult	Abdullah Abdullah	2014-07-16
+France	Express intent to cooperate	Japan	2014-07-29
+North Atlantic Treaty Organization	Meet at a 'third' location	Barack Obama	2014-09-03
+Dalbir Singh	Engage in negotiation	Army Personnel (Nepal)	2014-11-12
+John Kerry	Meet at a 'third' location	Catherine Ashton	2014-11-09
+Police (Yemen)	Consult	Governor (Yemen)	2014-04-30
+Abu Bakr Abdullah al-Qirbi	Consult	Foreign Affairs (United States)	2014-03-13
+Government (Pakistan)	Engage in negotiation	Indigenous People (Pakistan)	2014-05-23
+Japan	Consult	South Korea	2014-11-16
+Jean Qahwaji	Consult	Marwan Charbel	2014-02-13
+Head of Government (Egypt)	Consult	Barnaba Marial Benjamin	2014-03-13
+John Kerry	Discuss by telephone	Middle East	2014-08-03
+Benjamin Netanyahu	Meet at a 'third' location	John Kerry	2014-11-22
+Citizen (India)	Express intent to cooperate	Court Judge (India)	2014-12-05
+China	Express intent to cooperate	Thailand	2014-12-19
+South Korea	Engage in diplomatic cooperation	Japan	2014-07-16
+Head of Government (India)	Consult	Media (India)	2014-01-07
+Military Personnel (Thailand)	Discuss by telephone	Agence France-Presse	2014-07-25
+Iran	Engage in negotiation	Barack Obama	2014-04-12
+Indigenous People (Nigeria)	Consult	Ministry (Nigeria)	2014-04-14
+Barack Obama	Sign formal agreement	China	2014-05-05
+Senate (Romania)	Consult	Legislature (Romania)	2014-06-25
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-09-26
+Reuven Rivlin	Consult	Benjamin Netanyahu	2014-10-24
+Head of Government (Palestinian Territory, Occupied)	Engage in negotiation	Sabah Khaled Al-Hamad Al-Sabah	2014-08-12
+Foreign Affairs (Yemen)	Consult	Mohammad Javad Zarif	2014-12-04
+Sheikh Hasina Wajed	Consult	Head of Government (Bangladesh)	2014-06-26
+Milos Zeman	Consult	Head of Government (Tajikistan)	2014-11-27
+China	Express intent to cooperate	South Korea	2014-09-03
+Kuwait	Consult	United Arab Emirates	2014-04-01
+Government (Kenya)	Express intent to cooperate	Citizen (Kenya)	2014-06-04
+Middle East	Consult	Foreign Affairs (Russia)	2014-01-14
+Jack Straw	Consult	Member of Parliament (Iran)	2014-01-08
+China	Express intent to cooperate	South Korea	2014-12-09
+Uhuru Muigai Kenyatta	Engage in negotiation	South Sudan	2014-11-07
+Gen Prayut Chan-o-cha	Engage in negotiation	Hun Sen	2014-10-31
+Raheel Sharif	Consult	Zaheerul Islam	2014-10-16
+Gérard Larcher	Consult	Abdel Fattah Al-Sisi	2014-11-29
+Envoy (United Kingdom)	Consult	Seyran Ohanyan	2014-09-17
+Xi Jinping	Consult	Barack Obama	2014-02-21
+Ma Ying Jeou	Discuss by telephone	Kuomintang	2014-11-25
+Agence France-Presse	Discuss by telephone	Tea Banh	2014-07-14
+Vietnam	Engage in diplomatic cooperation	China	2014-06-19
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Shimon Peres	2014-09-23
+Jens Stoltenberg	Meet at a 'third' location	North Atlantic Treaty Organization	2014-10-06
+Protester (Pakistan)	Engage in negotiation	Zafar Ali Shah	2014-05-23
+Serge Lazarevic	Consult	François Hollande	2014-12-10
+France	Consult	Majid Takht Ravanchi	2014-07-15
+Xi Jinping	Consult	Islam Karimov	2014-08-20
+France	Sign formal agreement	China	2014-01-28
+High Ranking Military Personnel (United Arab Emirates)	Consult	United Arab Emirates	2014-02-25
+Ashok Kumar	Consult	Anandiben Patel	2014-09-04
+Sergey Viktorovich Lavrov	Consult	Mohammad Javad Zarif	2014-09-12
+International Monetary Fund	Consult	Portugal	2014-10-24
+Media (Pakistan)	Consult	Shah Mehmood Qureshi	2014-08-27
+François Hollande	Meet at a 'third' location	Barack Obama	2014-05-16
+Foreign Affairs (Syria)	Consult	Foreign Affairs (Russia)	2014-12-10
+Iran	Consult	Islamic Preacher (Iran)	2014-04-20
+Malaysia	Consult	Myanmar	2014-06-21
+Raheel Sharif	Consult	Imran Khan	2014-08-28
+Umar al Bashir	Engage in negotiation	Head of Government (Chad)	2014-03-08
+Xi Jinping	Engage in negotiation	Barack Obama	2014-10-18
+Xi Jinping	Consult	China	2014-12-25
+Canada	Consult	France	2014-03-25
+Al Sharq al Awsat	Consult	Member of Parliament (Iraq)	2014-01-25
+M.K. Narayanan	Consult	Ashok Kumar	2014-01-07
+Barnaba Marial Benjamin	Consult	Amina Mohamed	2014-01-09
+Mohammad Javad Zarif	Engage in negotiation	John Kerry	2014-07-15
+Sergey Viktorovich Lavrov	Consult	John Kerry	2014-02-22
+Angela Merkel	Engage in negotiation	Barack Obama	2014-06-23
+Armed Rebel (Yemen)	Express intent to cooperate	Armed Gang (Hashid Tribe)	2014-01-08
+Liwaa Semeism	Consult	Olga Kefalogianni	2014-05-05
+Juan Carlos Pinzon	Consult	Eduardo Montealegre	2014-02-05
+Head of Government (Germany)	Meet at a 'third' location	Andrej Kiska	2014-06-16
+Aladdin Boroujerdi	Consult	Morocco	2014-02-19
+North Korea	Engage in negotiation	Japan	2014-10-04
+Romania	Engage in diplomatic cooperation	Tanzania	2014-09-01
+Representatives (United States)	Meet at a 'third' location	Iran	2014-09-11
+Michael Sata	Consult	Head of Government (Ethiopia)	2014-02-03
+Iran	Engage in negotiation	Iraq	2014-09-28
+Mohammad Javad Zarif	Express intent to cooperate	Catherine Ashton	2014-02-20
+Party Member (United Kingdom)	Express intent to cooperate	Businessperson (United Kingdom)	2014-09-02
+John Kerry	Consult	Benjamin Netanyahu	2014-04-02
+Xi Jinping	Discuss by telephone	Barack Obama	2014-03-11
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Benjamin Netanyahu	2014-01-02
+Nuri al-Maliki	Consult	Joseph Robinette Biden	2014-06-19
+Evo Morales	Consult	Majid Takht Ravanchi	2014-01-23
+Amnesty International	Engage in negotiation	Indigenous People (Nigeria)	2014-05-21
+Abdullah Abdullah	Express intent to cooperate	Ashraf Ghani Ahmadzai	2014-07-27
+Kuwait	Sign formal agreement	Iraq	2014-12-28
+Citizen (India)	Express intent to cooperate	Mahinda Rajapaksa	2014-11-10
+Canada	Consult	Japan	2014-04-21
+Barack Obama	Consult	Salvador Sánchez Cerén	2014-07-25
+Envoy (United States)	Consult	Raheel Sharif	2014-04-28
+Julie Bishop	Express intent to cooperate	Cabinet / Council of Ministers / Advisors (United States)	2014-08-12
+Angola	Sign formal agreement	Cape Verde	2014-06-06
+Kashim Shettima	Consult	Government (Nigeria)	2014-05-12
+Foreign Affairs (Ukraine)	Sign formal agreement	Sergey Viktorovich Lavrov	2014-04-17
+Cabinet / Council of Ministers / Advisors (Tunisia)	Consult	Jacob Walles	2014-12-18
+UN Security Council	Consult	Domestic Affairs (Nigeria)	2014-07-22
+Chuck Hagel	Discuss by telephone	Defense / Security Ministry (Poland)	2014-03-10
+Salvador Sánchez Cerén	Consult	Guatemala	2014-07-23
+Victoria Nuland	Consult	Yulia Tymoshenko	2014-10-07
+Barack Obama	Express intent to cooperate	François Hollande	2014-06-20
+Mohammad Javad Zarif	Consult	Sergey Viktorovich Lavrov	2014-01-13
+Mohammad Javad Zarif	Consult	John Kerry	2014-07-13
+Qatar	Engage in diplomatic cooperation	Iran	2014-11-11
+Employee (India)	Consult	Amit Shah	2014-12-25
+Military (France)	Consult	Ministry (France)	2014-07-08
+Ante Kotromanović	Engage in negotiation	Zekerijah Osmic	2014-10-15
+Justice and Equality Movement	Consult	Media (Africa)	2014-06-26
+Congo	Engage in diplomatic cooperation	China	2014-09-01
+Xi Jinping	Consult	John Kerry	2014-02-14
+Labor Union (Brazil)	Consult	Gilberto Carvalho	2014-04-29
+North Korea	Engage in diplomatic cooperation	Laos	2014-12-02
+South Africa	Sign formal agreement	South Korea	2014-10-20
+South Korea	Meet at a 'third' location	Japan	2014-05-31
+Adilbek Dzhaksybekov	Consult	Foreign Affairs (Italy)	2014-07-09
+Al Jazeera	Consult	Foreign Affairs (Latvia)	2014-05-07
+Sergey Viktorovich Lavrov	Consult	Cabinet / Council of Ministers / Advisors (United States)	2014-10-14
+John Kerry	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-04-02
+Ashraf Ghani Ahmadzai	Consult	John Kerry	2014-08-05
+Cambodia	Express intent to cooperate	Vietnam	2014-06-25
+Massoud Barzani	Consult	Party Member (Iraq)	2014-07-17
+Businessperson (Somalia)	Consult	William Ruto	2014-04-17
+Iran	Consult	Islamic Preacher (Iran)	2014-04-27
+Liu Zhenmin	Engage in negotiation	Sujatha Singh	2014-04-15
+Thailand	Express intent to cooperate	Cambodia	2014-06-18
+Nicos Anastasiades	Consult	Head of Government (Greece)	2014-02-10
+Vietnam	Express intent to cooperate	Thailand	2014-11-27
+Haider Al-Abadi	Engage in negotiation	John Kerry	2014-09-13
+Sergio Massa	Consult	Cristina Fernández de Kirchner	2014-08-28
+Togo	Consult	Representatives (Togo)	2014-10-03
+Mohammad Javad Zarif	Engage in negotiation	Federica Mogherini	2014-08-22
+National Transitional Council	Sign formal agreement	Representatives (Congo)	2014-07-25
+Iran	Consult	European Parliament	2014-01-03
+City Mayor (China)	Consult	Hau Lung-pin	2014-06-09
+Abdel Fattah Al-Sisi	Engage in negotiation	John Kerry	2014-09-13
+Antonis Samaras	Consult	Evangelos Venizelos	2014-11-27
+Iraq	Engage in diplomatic cooperation	Iran	2014-12-31
+Mohamed Hassad	Consult	Ministry (Mauritania)	2014-10-12
+Oman	Consult	Barack Obama	2014-11-11
+Other Authorities / Officials (Somalia)	Engage in negotiation	Abdiweli Shaykh Ahmad	2014-04-14
+Armenia	Consult	François Hollande	2014-10-27
+Irakli Alasania	Consult	Zakir Hasanov	2014-02-27
+Canada	Engage in negotiation	China	2014-11-09
+Barack Obama	Discuss by telephone	Abdullah Gül	2014-05-16
+Iran	Consult	China	2014-09-12
+Jean-Yves Le Drian	Consult	Mohamed Ould Abdel Aziz	2014-05-15
+John Kerry	Consult	Benjamin Netanyahu	2014-03-19
+China	Sign formal agreement	Iran	2014-01-23
+Media (Africa)	Consult	Ministry (South Africa)	2014-11-07
+Legislature (China)	Consult	China	2014-03-08
+Media (India)	Consult	Oommen Chandy	2014-08-13
+Abdullah Abdullah	Consult	Foreign Affairs (United States)	2014-11-16
+Mahinda Rajapaksa	Engage in negotiation	Head of Government (India)	2014-06-02
+Ashraf Ghani Ahmadzai	Sign formal agreement	Mohamad Hanif Atmar	2014-09-30
+France	Engage in negotiation	Iran	2014-09-22
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-09-14
+Citizen (India)	Express intent to cooperate	Court Judge (India)	2014-02-06
+Fumio Kishida	Consult	Julie Bishop	2014-06-11
+Association of Southeast Asian Nations	Engage in diplomatic cooperation	China	2014-06-02
+Angola	Consult	International Monetary Fund	2014-04-10
+Fumio Kishida	Engage in negotiation	Pham Binh Minh	2014-03-18
+Antonis Samaras	Meet at a 'third' location	Yannis Stournaras	2014-06-02
+Head of Government (Kosovo)	Consult	Political Parties (Kosovo)	2014-10-08
+Foreign Affairs (United States)	Discuss by telephone	Benjamin Netanyahu	2014-07-14
+Head of Government (Ukraine)	Consult	Joseph Robinette Biden	2014-07-03
+China	Express intent to cooperate	South Korea	2014-07-20
+Thailand	Sign formal agreement	China	2014-10-24
+Shivraj Singh Chouhan	Consult	Rashtriya Swayamsevak Sangh	2014-07-06
+Ryoo Kihl-jae	Consult	Liu Zhenmin	2014-02-20
+Thailand	Express intent to cooperate	Vietnam	2014-06-27
+China	Consult	France	2014-06-18
+Guatemala	Sign formal agreement	Mexico	2014-08-08
+Muslim (Nigeria)	Consult	Government (Nigeria)	2014-05-22
+Association of Southeast Asian Nations	Consult	International Government Organizations	2014-03-01
+Head of Government (India)	Consult	Xi Jinping	2014-07-01
+Head of Government (Egypt)	Engage in negotiation	John Kerry	2014-10-14
+Foreign Affairs (Russia)	Consult	Foreign Affairs (Belarus)	2014-11-20
+Mauritania	Engage in diplomatic cooperation	Iraq	2014-07-06
+Shivshankar Menon	Engage in negotiation	Mohammad Javad Zarif	2014-03-01
+Kazakhstan	Express intent to cooperate	China	2014-12-14
+Saud bin Faisal bin Abdul-Aziz	Consult	John Kerry	2014-11-24
+Daniel Scioli	Sign formal agreement	City Mayor (Argentina)	2014-07-02
+Central Bank of Russia	Engage in negotiation	Business (Russia)	2014-12-10
+Barack Obama	Consult	Benjamin Netanyahu	2014-03-12
+Benjamin Netanyahu	Discuss by telephone	John Kerry	2014-03-20
+Iran	Sign formal agreement	Kuwait	2014-06-05
+Mohammad Javad Zarif	Consult	Catherine Ashton	2014-07-13
+Alfonso Prat Gay	Consult	Javier Gonzalez Fraga	2014-08-20
+Bahrain	Consult	Yu Zhengsheng	2014-11-07
+Foreign Affairs (Italy)	Consult	Massoud Barzani	2014-03-31
+UN Security Council	Consult	Mary Robinson	2014-03-16
+Abu Bakr Abdullah al-Qirbi	Discuss by telephone	Mohammad Javad Zarif	2014-01-18
+Sergey Viktorovich Lavrov	Discuss by telephone	Cabinet / Council of Ministers / Advisors (United States)	2014-03-20
+Akitaka Saiki	Consult	Cho Tai-young	2014-03-13
+France	Sign formal agreement	China	2014-06-28
+Business (Russia)	Engage in negotiation	Iran	2014-07-09
+New Zealand	Engage in diplomatic cooperation	China	2014-03-20
+International Monetary Fund	Express intent to cooperate	Other Authorities / Officials (Romania)	2014-12-09
+Iran	Consult	Poland	2014-05-25
+Council of States	Consult	Election Commission (India)	2014-01-26
+François Hollande	Express intent to cooperate	Barack Obama	2014-07-08
+Benjamin Netanyahu	Express intent to cooperate	Yair Lapid	2014-10-02
+Police (Paraguay)	Consult	Senate (Paraguay)	2014-11-24
+Vietnam	Engage in negotiation	Military Personnel (Vietnam)	2014-08-14
+Benjamin Netanyahu	Consult	John Kerry	2014-11-15
+Company - Owner or Operator (Italy)	Consult	Silvio Berlusconi	2014-01-22
+François Hollande	Consult	Barack Obama	2014-07-29
+Canada	Engage in negotiation	France	2014-06-05
+Victor Ponta	Consult	Klaus Johannis	2014-12-29
+Iraq	Engage in diplomatic cooperation	Bahrain	2014-03-04
+Catherine Ashton	Consult	Mohammad Javad Zarif	2014-07-27
+Mevlut Cavusoglu	Consult	John Kerry	2014-10-20
+Barack Obama	Sign formal agreement	China	2014-11-15
+Media Personnel (Pakistan)	Consult	Media (Pakistan)	2014-01-19
+Yasuo Fukuda	Engage in negotiation	Xi Jinping	2014-08-01
+Pakistan Tehreek-e-Insaf	Consult	Government (Pakistan)	2014-12-26
+Mohammad Javad Zarif	Consult	Emma Bonino	2014-01-07
+Joachim Gauck	Consult	Xi Jinping	2014-03-29
+Malaysia	Sign formal agreement	Tajikistan	2014-06-24
+Barack Obama	Consult	Arseniy Yatsenyuk	2014-03-12
+Carlos Raúl Morales	Express intent to cooperate	Head of Government (Guatemala)	2014-09-19
+Peter Greste	Consult	Court Judge (Egypt)	2014-04-03
+New Zealand	Engage in negotiation	South Korea	2014-11-16
+M.R. Sharma	Consult	Uhuru Muigai Kenyatta	2014-06-25
+South Korea	Sign formal agreement	Canada	2014-09-25
+Angela Merkel	Engage in negotiation	Barack Obama	2014-07-18
+John Kerry	Consult	Blogger (China)	2014-05-30
+Sheikh Ali Salman	Consult	Foreign Affairs (United States)	2014-07-20
+Abdullah Abdullah	Express intent to cooperate	Ashraf Ghani Ahmadzai	2014-08-09
+Xi Jinping	Engage in negotiation	Cristina Fernández de Kirchner	2014-07-20
+South Korea	Express intent to cooperate	Japan	2014-09-26
+Barack Obama	Consult	Ashraf Ghani Ahmadzai	2014-10-22
+Iran	Engage in negotiation	France	2014-09-12
+Associated Press	Discuss by telephone	Jorge Enrique Rodríguez	2014-10-20
+United Arab Emirates	Consult	France	2014-01-13
+China	Meet at a 'third' location	Majid Takht Ravanchi	2014-11-21
+China	Engage in negotiation	Japan	2014-09-01
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-04-10
+China	Consult	France	2014-04-07
+Sudan	Express intent to cooperate	Ethiopia	2014-08-29
+Alhaji Lai Mohammed	Discuss by telephone	Media (Africa)	2014-03-18
+China	Express intent to cooperate	Japan	2014-04-26
+Xi Jinping	Express intent to cooperate	Cristina Fernández de Kirchner	2014-07-18
+Agence France-Presse	Discuss by telephone	Food, Water, and Disaster Relief (Sri Lanka)	2014-10-29
+Milos Zeman	Consult	Xi Jinping	2014-11-04
+Sudan	Express intent to cooperate	Ethiopia	2014-09-05
+Pinarayi Vijayan	Consult	Media (India)	2014-05-25
+Chang Wanquan	Consult	Phung Quang Thanh	2014-10-18
+South Korea	Express intent to cooperate	Citizen (South Korea)	2014-02-05
+Representatives (Poland)	Consult	Ministry (Poland)	2014-01-21
+Republican People's Party	Express intent to cooperate	Justice and Development Party	2014-05-30
+Business (Canada)	Consult	Jason Kenney	2014-02-22
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-10-03
+Colombia	Express intent to cooperate	Mexico	2014-06-20
+Associated Press	Consult	Philippines	2014-04-25
+Nguyen Phu Trong	Consult	Business (South Korea)	2014-10-03
+Foreign Affairs (Israel)	Consult	Cabinet / Council of Ministers / Advisors (Thailand)	2014-12-11
+Mohamad Hanif Atmar	Consult	Raheel Sharif	2014-11-06
+France	Consult	China	2014-06-20
+Canada	Engage in diplomatic cooperation	Iraq	2014-02-24
+Sergey Viktorovich Lavrov	Express intent to cooperate	Cabinet / Council of Ministers / Advisors (United States)	2014-10-15
+Iraq	Sign formal agreement	Iran	2014-09-28
+Japan	Engage in diplomatic cooperation	China	2014-11-11
+Thailand	Consult	Head of Government (China)	2014-11-10
+Cabinet / Council of Ministers / Advisors (United States)	Engage in negotiation	Victor Ponta	2014-05-21
+Benjamin Netanyahu	Consult	Joseph Robinette Biden	2014-01-14
+Silvio Berlusconi	Consult	Company - Owner or Operator (Italy)	2014-01-21
+Media (Africa)	Consult	Justice and Equality Movement	2014-10-02
+Mohammad Javad Zarif	Consult	Radoslaw Sikorski	2014-03-01
+Head of Government (India)	Consult	Medical Personnel (India)	2014-03-09
+Police (Ukraine)	Express intent to cooperate	Protester (Ukraine)	2014-01-24
+Tanzania	Meet at a 'third' location	Human Rights Watch	2014-04-11
+Court Judge (Lebanon)	Consult	Representatives (Lebanon)	2014-03-01
+Cabinet / Council of Ministers / Advisors (United States)	Engage in negotiation	Zhang Yesui	2014-01-22
+Colombia	Sign formal agreement	France	2014-07-11
+Ethiopia	Express intent to cooperate	Sudan	2014-05-19
+Iran	Express intent to cooperate	Iraq	2014-10-01
+Joe Oliver	Consult	Economist (Canada)	2014-10-15
+Ma Ying Jeou	Consult	Xi Jinping	2014-10-31
+Oman	Sign formal agreement	Iran	2014-03-13
+Japan	Express intent to cooperate	North Korea	2014-06-02
+Head of Government (Tajikistan)	Consult	Sergey Viktorovich Lavrov	2014-08-04
+Head of Government (Germany)	Consult	France	2014-10-31
+European Parliament	Meet at a 'third' location	Pope Francis	2014-11-25
+Abdullah Abdullah	Consult	Ashraf Ghani Ahmadzai	2014-10-23
+Sergey Viktorovich Lavrov	Discuss by telephone	John Kerry	2014-12-12
+Ethiopia	Consult	John Kerry	2014-05-03
+Massoud Barzani	Consult	Representatives (Iraq)	2014-05-19
+Head of Government (Turkmenistan)	Consult	Gurbanguly Berdymukhammedov	2014-12-09
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-05-08
+Omar Abdullah	Consult	Ministry (Indian Administered Kashmir)	2014-02-07
+Barack Obama	Consult	François Hollande	2014-03-08
+William Ruto	Consult	Uhuru Muigai Kenyatta	2014-06-16
+North Korea	Engage in diplomatic cooperation	Vietnam	2014-11-08
+Foreign Affairs (Romania)	Consult	Daniel Mitov	2014-12-11
+Abdel Fattah Al-Sisi	Consult	Energy Department/Ministry (China)	2014-12-08
+Head of Government (Ukraine)	Consult	Angela Merkel	2014-05-29
+Angela Merkel	Discuss by telephone	Head of Government (Ukraine)	2014-12-27
+Park Won-soon	Engage in negotiation	Chongwadai	2014-07-24
+Presidential Candidate (Afghanistan)	Consult	John Kerry	2014-07-10
+Lawmaker (Lebanon)	Consult	Nabih Berri	2014-12-03
+Rebel Group (Israel)	Consult	Israeli Defense Forces	2014-10-17
+Military Personnel (Afghanistan)	Consult	Yunus Qanuni	2014-04-01
+John Kerry	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-12-16
+South Korea	Consult	China	2014-07-14
+Barack Obama	Consult	Angela Merkel	2014-07-15
+Senate Armed Services Committee	Consult	Abdullah Abdullah	2014-07-04
+Government (Slovakia)	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-12-04
+Iran	Meet at a 'third' location	John Kerry	2014-07-13
+Afghanistan	Engage in diplomatic cooperation	Tajikistan	2014-03-13
+Congo	Consult	South Africa	2014-03-24
+Protester (Ukraine)	Consult	Senate (Ukraine)	2014-02-13
+Tanzania	Engage in diplomatic cooperation	Poland	2014-10-27
+Lawyer/Attorney (Romania)	Consult	Information / Communication / Transparency Ministry (Romania)	2014-08-13
+Business (Lebanon)	Engage in negotiation	Bank (Iraq)	2014-03-11
+Islam Karimov	Sign formal agreement	Xi Jinping	2014-09-09
+South Korea	Sign formal agreement	North Korea	2014-10-05
+Edwin Clark	Consult	Emmanuel Eweta Uduaghan	2014-04-07
+Barack Obama	Consult	Xi Jinping	2014-07-15
+Mohammad Javad Zarif	Engage in negotiation	Catherine Ashton	2014-04-06
+Massoud Barzani	Discuss by telephone	François Hollande	2014-08-09
+Fumio Kishida	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-11
+Scholar (Somalia)	Consult	Military Personnel (Somalia)	2014-10-05
+Iraq	Engage in diplomatic cooperation	Bahrain	2014-01-15
+John Kerry	Sign formal agreement	Ashraf Ghani Ahmadzai	2014-08-11
+Japan	Sign formal agreement	North Korea	2014-06-18
+Protester (Ukraine)	Discuss by telephone	Head of Government (Ukraine)	2014-04-10
+Head of Government (Pakistan)	Consult	Xi Jinping	2014-11-08
+Saud bin Faisal bin Abdul-Aziz	Consult	Joseph Robinette Biden	2014-10-07
+Iran	Engage in negotiation	Armenia	2014-11-21
+Abdullah Abdullah	Consult	Barack Obama	2014-07-09
+Sabah Khaled Al-Hamad Al-Sabah	Consult	Haider Al-Abadi	2014-12-29
+Cabinet / Council of Ministers / Advisors (United States)	Discuss by telephone	Sergey Viktorovich Lavrov	2014-04-22
+Foreign Affairs (Malaysia)	Sign formal agreement	Pavlo Klimkin	2014-08-02
+Head of Government (India)	Consult	Barack Obama	2014-10-01
+Kathleen Wynne	Consult	Philippe Couillard	2014-11-21
+South Africa	Engage in diplomatic cooperation	Iran	2014-03-09
+Representatives (Iraq)	Sign formal agreement	Aero Vodochody	2014-04-07
+Cabinet / Council of Ministers / Advisors (United States)	Meet at a 'third' location	Sergey Viktorovich Lavrov	2014-06-09
+Jacob J. Lew	Consult	Pedro Manuel Mamede Passos Coelho	2014-01-09
+Tajikistan	Consult	Foreign Affairs (Russia)	2014-08-13
+François Hollande	Engage in negotiation	Barack Obama	2014-10-16
+City Mayor (Philippines)	Sign formal agreement	Professor (South Korea)	2014-12-13
+Cabinet / Council of Ministers / Advisors (United States)	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-13
+African Union	Consult	Detainee (South Sudan)	2014-01-22
+Husam Mughazi	Consult	Abdel Fattah Al-Sisi	2014-08-11
+Congo	Engage in diplomatic cooperation	South Africa	2014-04-14
+Head of Government (Egypt)	Consult	Jean-Yves Le Drian	2014-11-26
+Barack Obama	Consult	Emperor Akihito	2014-04-24
+Business (Bulgaria)	Sign formal agreement	Labor Union (Bulgaria)	2014-09-23
+Samuel J. Locklear	Consult	Fang Fenghui	2014-07-09
+Head of Government (Germany)	Consult	Angela Merkel	2014-09-22

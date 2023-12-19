@@ -1,0 +1,927 @@
+head	relation	tail	time
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Benjamin Netanyahu	2014-01-02
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-06-06
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Nasser Judeh	2014-06-23
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Abdel Fattah Al-Sisi	2014-06-26
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Benjamin Netanyahu	2014-07-03
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Benjamin Netanyahu	2014-07-23
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Presidential Candidate (Afghanistan)	2014-07-24
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Ashraf Ghani Ahmadzai	2014-08-11
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Julie Bishop	2014-08-11
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Haider Al-Abadi	2014-09-11
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Shimon Peres	2014-09-23
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-09-26
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Catherine Ashton	2014-10-18
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-11-08
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Catherine Ashton	2014-11-12
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-11-23
+Cabinet / Council of Ministers / Advisors (United States)	Consult	Sergey Viktorovich Lavrov	2014-11-24
+Benjamin Netanyahu	Consult	Joseph Robinette Biden	2014-01-14
+Benjamin Netanyahu	Consult	Barack Obama	2014-02-16
+Benjamin Netanyahu	Consult	Angela Merkel	2014-02-24
+Benjamin Netanyahu	Consult	Barack Obama	2014-03-08
+Benjamin Netanyahu	Consult	John Kerry	2014-03-20
+Benjamin Netanyahu	Consult	Liu Yandong	2014-05-20
+Benjamin Netanyahu	Consult	John Kerry	2014-06-17
+Benjamin Netanyahu	Consult	John Kerry	2014-07-24
+Benjamin Netanyahu	Consult	Tony Blair	2014-07-26
+Benjamin Netanyahu	Consult	Likud	2014-11-12
+Benjamin Netanyahu	Consult	John Kerry	2014-11-15
+Joseph Robinette Biden	Consult	Head of Government (Ukraine)	2014-04-22
+Joseph Robinette Biden	Consult	Arseniy Yatsenyuk	2014-04-23
+Joseph Robinette Biden	Consult	Head of Government (Latvia)	2014-04-30
+Joseph Robinette Biden	Consult	Irakli Alasania	2014-05-08
+Joseph Robinette Biden	Consult	Dominican Republic	2014-06-19
+Joseph Robinette Biden	Consult	Haider Al-Abadi	2014-08-26
+Head of Government (Ukraine)	Consult	Angela Merkel	2014-05-29
+Head of Government (Ukraine)	Consult	Angela Merkel	2014-06-30
+Head of Government (Ukraine)	Consult	Joseph Robinette Biden	2014-07-03
+Head of Government (Ukraine)	Consult	Joseph Robinette Biden	2014-11-21
+Angela Merkel	Consult	Barack Obama	2014-06-23
+Angela Merkel	Consult	Barack Obama	2014-07-03
+Angela Merkel	Consult	Head of Government (Qatar)	2014-09-17
+Angela Merkel	Consult	Antonis Samaras	2014-09-23
+Angela Merkel	Consult	François Hollande	2014-10-17
+Angela Merkel	Consult	Head of Government (Ukraine)	2014-12-14
+Barack Obama	Consult	Angela Merkel	2014-07-03
+Barack Obama	Consult	Angela Merkel	2014-07-04
+Barack Obama	Consult	Angela Merkel	2014-07-15
+Barack Obama	Consult	Xi Jinping	2014-07-15
+Barack Obama	Consult	Benjamin Netanyahu	2014-07-18
+Barack Obama	Consult	Salvador Sánchez Cerén	2014-07-25
+Barack Obama	Consult	African Union	2014-08-07
+Barack Obama	Consult	Mohamed Ould Abdel Aziz	2014-08-07
+Barack Obama	Consult	Angela Merkel	2014-08-09
+Barack Obama	Consult	Haider Al-Abadi	2014-09-24
+Barack Obama	Consult	Abdel Fattah Al-Sisi	2014-09-25
+Barack Obama	Consult	Haider Al-Abadi	2014-09-25
+Barack Obama	Consult	Benjamin Netanyahu	2014-10-03
+Barack Obama	Consult	François Hollande	2014-10-13
+Barack Obama	Consult	Other Authorities / Officials (Turkey)	2014-10-20
+Barack Obama	Consult	Abdullah Abdullah	2014-10-22
+Barack Obama	Consult	Ashraf Ghani Ahmadzai	2014-10-22
+Xi Jinping	Consult	Barack Obama	2014-07-17
+Xi Jinping	Consult	Head of Government (India)	2014-07-25
+Xi Jinping	Consult	Islam Karimov	2014-08-20
+Xi Jinping	Consult	Islam Karimov	2014-09-12
+Xi Jinping	Consult	Head of Government (Tajikistan)	2014-09-20
+Xi Jinping	Consult	Ashraf Ghani Ahmadzai	2014-10-28
+Xi Jinping	Consult	Vincent C. Siew	2014-11-11
+Xi Jinping	Consult	Barack Obama	2014-11-16
+Xi Jinping	Consult	China	2014-11-23
+Xi Jinping	Consult	China	2014-12-25
+Head of Government (India)	Consult	Member of Parliament (India)	2014-08-27
+Head of Government (India)	Consult	Barack Obama	2014-10-01
+Member of Parliament (India)	Consult	Media (India)	2014-10-05
+Member of Parliament (India)	Consult	Citizen (India)	2014-11-18
+Media (India)	Consult	Omar Abdullah	2014-10-21
+Media (India)	Consult	Fishermen (India)	2014-11-21
+Omar Abdullah	Consult	Media (India)	2014-10-21
+Head of Government (Tajikistan)	Consult	Xi Jinping	2014-09-20
+Ashraf Ghani Ahmadzai	Consult	Foreign Affairs (Norway)	2014-11-08
+Ashraf Ghani Ahmadzai	Consult	Sherry Rehman	2014-11-16
+Ashraf Ghani Ahmadzai	Consult	Sheikh Hasina Wajed	2014-11-30
+Ashraf Ghani Ahmadzai	Consult	Defense / Security Ministry (United States)	2014-12-07
+Ashraf Ghani Ahmadzai	Consult	Foreign Affairs (Russia)	2014-12-29
+Sherry Rehman	Consult	Ashraf Ghani Ahmadzai	2014-11-16
+Sheikh Hasina Wajed	Consult	Ashraf Ghani Ahmadzai	2014-11-30
+China	Consult	Xi Jinping	2014-11-23
+China	Consult	Vietnam	2014-12-27
+Salvador Sánchez Cerén	Consult	Joseph Robinette Biden	2014-07-26
+African Union	Consult	Ethiopia	2014-11-03
+Mohamed Ould Abdel Aziz	Consult	Barack Obama	2014-08-07
+Haider Al-Abadi	Consult	Barack Obama	2014-09-24
+Haider Al-Abadi	Consult	Representatives (Iraq)	2014-12-22
+Abdel Fattah Al-Sisi	Consult	Head of Government (Egypt)	2014-11-13
+Abdel Fattah Al-Sisi	Consult	Giorgio Napolitano	2014-11-26
+Abdel Fattah Al-Sisi	Consult	Energy Department/Ministry (China)	2014-12-08
+Head of Government (Egypt)	Consult	Jean-Yves Le Drian	2014-11-26
+Head of Government (Egypt)	Consult	François Hollande	2014-11-27
+Abdullah Abdullah	Consult	Ashraf Ghani Ahmadzai	2014-10-23
+Abdullah Abdullah	Consult	Raheel Sharif	2014-11-06
+Abdullah Abdullah	Consult	Foreign Affairs (United States)	2014-11-16
+Raheel Sharif	Consult	John Kerry	2014-12-07
+John Kerry	Consult	Sergey Viktorovich Lavrov	2014-12-17
+Foreign Affairs (United States)	Consult	Seyran Ohanyan	2014-11-25
+Foreign Affairs (United States)	Consult	Davit Usupashvili	2014-12-05
+Foreign Affairs (United States)	Consult	Malaysia	2014-12-12
+Antonis Samaras	Consult	Angela Merkel	2014-09-23
+Antonis Samaras	Consult	Evangelos Venizelos	2014-11-27
+Arseniy Yatsenyuk	Consult	Radoslaw Sikorski	2014-07-16
+Arseniy Yatsenyuk	Consult	Joseph Robinette Biden	2014-07-29
+Arseniy Yatsenyuk	Consult	Head of Government (Ukraine)	2014-10-29
+Arseniy Yatsenyuk	Consult	Jens Stoltenberg	2014-12-15
+Iran	Consult	European Parliament	2014-01-03
+Iran	Consult	Japan	2014-03-01
+Iran	Consult	Catherine Ashton	2014-03-09
+Iran	Consult	Tajikistan	2014-03-26
+Iran	Consult	Japan	2014-04-03
+Iran	Consult	Catherine Ashton	2014-04-07
+Iran	Consult	Islamic Preacher (Iran)	2014-04-20
+Iran	Consult	Oman	2014-04-23
+Iran	Consult	Islamic Preacher (Iran)	2014-04-27
+Iran	Consult	Simon Gass	2014-04-29
+Iran	Consult	Poland	2014-05-25
+Iran	Consult	Kazakhstan	2014-06-03
+Iran	Consult	France	2014-06-16
+Iran	Consult	South Korea	2014-07-09
+Iran	Consult	Afghanistan	2014-08-12
+Iran	Consult	China	2014-09-12
+Iran	Consult	Barack Obama	2014-09-16
+Iran	Consult	Kuwait	2014-09-23
+Iran	Consult	France	2014-09-25
+Iran	Consult	Haider Al-Abadi	2014-10-22
+Iran	Consult	China	2014-11-18
+Iran	Consult	Iraq	2014-12-09
+European Parliament	Consult	France	2014-02-25
+France	Consult	China	2014-03-24
+France	Consult	Japan	2014-04-11
+France	Consult	China	2014-05-05
+France	Consult	China	2014-06-20
+France	Consult	China	2014-07-08
+France	Consult	Majid Takht Ravanchi	2014-07-15
+France	Consult	Poland	2014-09-02
+France	Consult	Canada	2014-09-16
+Japan	Consult	France	2014-04-11
+Japan	Consult	Philippines	2014-04-24
+Japan	Consult	South Korea	2014-07-27
+Japan	Consult	South Korea	2014-09-26
+Japan	Consult	South Korea	2014-11-13
+Japan	Consult	South Korea	2014-11-16
+Japan	Consult	China	2014-12-27
+Philippines	Consult	Thailand	2014-06-21
+Philippines	Consult	Pham Binh Minh	2014-10-17
+Thailand	Consult	Cambodia	2014-08-31
+Thailand	Consult	Head of Government (China)	2014-11-10
+Thailand	Consult	Vietnam	2014-12-22
+Majid Takht Ravanchi	Consult	Undersecretary (United States)	2014-09-18
+Indigenous People (Nigeria)	Consult	Vanguard	2014-01-13
+Indigenous People (Nigeria)	Consult	Ministry (Nigeria)	2014-04-14
+Vanguard	Consult	Other Authorities / Officials (Nigeria)	2014-06-17
+Other Authorities / Officials (Nigeria)	Consult	Media (Africa)	2014-07-28
+Media (Africa)	Consult	Justice and Equality Movement	2014-10-02
+Media (Africa)	Consult	Ministry (South Africa)	2014-11-07
+Media (Africa)	Consult	Military Personnel (Kenya)	2014-11-18
+Victor Ponta	Consult	International Monetary Fund	2014-02-03
+Victor Ponta	Consult	Ministry (Romania)	2014-02-26
+Victor Ponta	Consult	Xi Jinping	2014-09-02
+Victor Ponta	Consult	China	2014-09-25
+Victor Ponta	Consult	Klaus Johannis	2014-12-29
+International Monetary Fund	Consult	Portugal	2014-10-24
+International Monetary Fund	Consult	Joseph Robinette Biden	2014-11-21
+Portugal	Consult	European Central Bank	2014-10-24
+Edgars Rinkevics	Consult	Foreign Affairs (Belarus)	2014-02-28
+Edgars Rinkevics	Consult	Foreign Affairs (Norway)	2014-07-30
+Edgars Rinkevics	Consult	Fiona Woolf	2014-09-22
+Edgars Rinkevics	Consult	North Atlantic Treaty Organization	2014-12-03
+Fiona Woolf	Consult	Governor (Kenya)	2014-09-22
+Governor (Kenya)	Consult	Media (Africa)	2014-10-01
+Governor (Kenya)	Consult	Pokot	2014-12-15
+South Korea	Criticize or denounce	North Korea	2014-01-04
+South Korea	Criticize or denounce	Japan	2014-01-22
+South Korea	Criticize or denounce	North Korea	2014-01-29
+North Korea	Criticize or denounce	Military (North Korea)	2014-04-26
+North Korea	Criticize or denounce	Japan	2014-05-23
+North Korea	Criticize or denounce	UN Security Council	2014-07-20
+North Korea	Criticize or denounce	UN Security Council	2014-08-14
+North Korea	Criticize or denounce	Citizen (South Korea)	2014-10-18
+North Korea	Criticize or denounce	Japan	2014-11-28
+Japan	Criticize or denounce	China	2014-11-14
+UN Security Council	Criticize or denounce	North Korea	2014-07-20
+UN Security Council	Criticize or denounce	North Korea	2014-08-10
+UN Security Council	Criticize or denounce	Al-Shabaab	2014-11-26
+Citizen (Nigeria)	Criticize or denounce	Oluṣẹgun Ọbasanjọ	2014-01-13
+Citizen (Nigeria)	Criticize or denounce	National Airline (Nigeria)	2014-01-31
+Citizen (Nigeria)	Criticize or denounce	Patience Jonathan	2014-04-22
+Citizen (Nigeria)	Criticize or denounce	Ministry (Nigeria)	2014-04-22
+Citizen (Nigeria)	Criticize or denounce	Boko Haram	2014-05-16
+Citizen (Nigeria)	Criticize or denounce	Government (Nigeria)	2014-05-26
+Citizen (Nigeria)	Criticize or denounce	Labor Union (Nigeria)	2014-06-27
+Citizen (Nigeria)	Criticize or denounce	Kayode Fayemi	2014-07-08
+Citizen (Nigeria)	Criticize or denounce	Government (Nigeria)	2014-08-27
+Citizen (Nigeria)	Criticize or denounce	Government (Nigeria)	2014-10-13
+Citizen (Nigeria)	Criticize or denounce	Chibuike Rotimi Amaechi	2014-10-23
+Citizen (Nigeria)	Criticize or denounce	Member of the Judiciary (Nigeria)	2014-10-27
+Citizen (Nigeria)	Criticize or denounce	Suleiman Abba	2014-11-03
+Citizen (Nigeria)	Criticize or denounce	Emmanuel Eweta Uduaghan	2014-11-25
+Citizen (Nigeria)	Criticize or denounce	Government (Nigeria)	2014-12-22
+Citizen (Nigeria)	Criticize or denounce	Oluṣẹgun Ọbasanjọ	2014-12-29
+Ministry (Nigeria)	Criticize or denounce	Government (Nigeria)	2014-04-22
+Ministry (Nigeria)	Criticize or denounce	Government (Nigeria)	2014-05-28
+Ministry (Nigeria)	Criticize or denounce	Congress (Nigeria)	2014-09-29
+Government (Nigeria)	Criticize or denounce	Rauf Aregbesola	2014-07-23
+Government (Nigeria)	Criticize or denounce	State Security Service	2014-07-28
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-01-20
+John Kerry	Discuss by telephone	Foreign Affairs (Russia)	2014-02-22
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-07
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-08
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-03-14
+John Kerry	Discuss by telephone	Benjamin Netanyahu	2014-03-19
+John Kerry	Discuss by telephone	Agence France-Presse	2014-04-04
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-04-10
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-05-09
+John Kerry	Discuss by telephone	Middle East	2014-08-03
+John Kerry	Discuss by telephone	Mevlut Cavusoglu	2014-11-06
+John Kerry	Discuss by telephone	Sergey Viktorovich Lavrov	2014-12-30
+Sergey Viktorovich Lavrov	Discuss by telephone	Kazakhstan	2014-03-17
+Sergey Viktorovich Lavrov	Discuss by telephone	Cabinet / Council of Ministers / Advisors (United States)	2014-03-20
+Sergey Viktorovich Lavrov	Discuss by telephone	Cabinet / Council of Ministers / Advisors (United States)	2014-04-11
+Sergey Viktorovich Lavrov	Discuss by telephone	Pavlo Klimkin	2014-08-14
+Sergey Viktorovich Lavrov	Discuss by telephone	Cabinet / Council of Ministers / Advisors (United States)	2014-11-21
+Benjamin Netanyahu	Discuss by telephone	Barack Obama	2014-07-12
+Barack Obama	Discuss by telephone	Angela Merkel	2014-07-22
+Barack Obama	Discuss by telephone	Benjamin Netanyahu	2014-07-30
+Barack Obama	Discuss by telephone	Haider Al-Abadi	2014-08-13
+Barack Obama	Discuss by telephone	Head of Government (Brazil)	2014-10-28
+Angela Merkel	Discuss by telephone	Massoud Barzani	2014-08-16
+Angela Merkel	Discuss by telephone	Head of Government (Ukraine)	2014-12-27
+Romania	Engage in diplomatic cooperation	Iran	2014-01-08
+Romania	Engage in diplomatic cooperation	Tanzania	2014-09-01
+Romania	Engage in diplomatic cooperation	China	2014-09-29
+Iran	Engage in diplomatic cooperation	Business (Iran)	2014-01-24
+Iran	Engage in diplomatic cooperation	Oman	2014-01-29
+Iran	Engage in diplomatic cooperation	France	2014-02-10
+Iran	Engage in diplomatic cooperation	Malaysia	2014-02-18
+Iran	Engage in diplomatic cooperation	United Arab Emirates	2014-04-18
+Iran	Engage in diplomatic cooperation	Armenia	2014-05-05
+Iran	Engage in diplomatic cooperation	Armenia	2014-05-12
+Iran	Engage in diplomatic cooperation	China	2014-05-22
+Iran	Engage in diplomatic cooperation	Kuwait	2014-06-02
+Iran	Engage in diplomatic cooperation	Nonaligned Movement	2014-06-07
+Iran	Engage in diplomatic cooperation	Malaysia	2014-06-17
+Iran	Engage in diplomatic cooperation	China	2014-06-22
+Iran	Engage in diplomatic cooperation	China	2014-06-24
+Iran	Engage in diplomatic cooperation	China	2014-07-08
+Iran	Engage in diplomatic cooperation	Philippines	2014-07-11
+Iran	Engage in diplomatic cooperation	China	2014-07-11
+Iran	Engage in diplomatic cooperation	Afghanistan	2014-09-08
+Iran	Engage in diplomatic cooperation	Mexico	2014-09-13
+Iran	Engage in diplomatic cooperation	Business (Iran)	2014-10-11
+Iran	Engage in diplomatic cooperation	Iraq	2014-11-19
+Iran	Engage in diplomatic cooperation	Kuwait	2014-11-27
+Iran	Engage in diplomatic cooperation	Mexico	2014-12-03
+Iran	Engage in diplomatic cooperation	Iraq	2014-12-29
+Oman	Engage in diplomatic cooperation	Iran	2014-11-30
+Oman	Engage in diplomatic cooperation	Iran	2014-12-01
+France	Engage in diplomatic cooperation	Armenia	2014-03-14
+France	Engage in diplomatic cooperation	Lithuanian Armed Forces	2014-07-29
+France	Engage in diplomatic cooperation	Iran	2014-09-15
+United Arab Emirates	Engage in diplomatic cooperation	Iran	2014-05-31
+United Arab Emirates	Engage in diplomatic cooperation	Serbia	2014-09-12
+United Arab Emirates	Engage in diplomatic cooperation	Qatar	2014-11-28
+China	Engage in diplomatic cooperation	Fiji	2014-08-19
+China	Engage in diplomatic cooperation	Japan	2014-09-10
+China	Engage in diplomatic cooperation	Malaysia	2014-10-08
+China	Engage in diplomatic cooperation	Japan	2014-10-08
+China	Engage in diplomatic cooperation	Fiji	2014-11-13
+China	Engage in diplomatic cooperation	South Africa	2014-12-07
+China	Engage in diplomatic cooperation	Cameroon	2014-12-30
+Japan	Engage in diplomatic cooperation	South Korea	2014-09-16
+Japan	Engage in diplomatic cooperation	China	2014-11-11
+Japan	Engage in diplomatic cooperation	Vietnam	2014-12-26
+South Korea	Engage in diplomatic cooperation	Japan	2014-12-29
+Kuwait	Engage in diplomatic cooperation	Iran	2014-11-12
+Kuwait	Engage in diplomatic cooperation	Canada	2014-12-11
+Barack Obama	Engage in negotiation	Iran	2014-01-10
+Barack Obama	Engage in negotiation	Royal Administration (Saudi Arabia)	2014-02-03
+Barack Obama	Engage in negotiation	Iran	2014-05-15
+Barack Obama	Engage in negotiation	Head of Government (India)	2014-09-30
+Barack Obama	Engage in negotiation	Xi Jinping	2014-10-19
+Iran	Engage in negotiation	Kofi Annan	2014-01-31
+Iran	Engage in negotiation	Bertie Ahern	2014-02-04
+Iran	Engage in negotiation	John Kerry	2014-02-09
+Iran	Engage in negotiation	Representatives (France)	2014-02-18
+Iran	Engage in negotiation	Foreign Affairs (Belgium)	2014-02-23
+Iran	Engage in negotiation	Armenia	2014-05-06
+Iran	Engage in negotiation	UN Security Council	2014-05-30
+Iran	Engage in negotiation	France	2014-09-12
+Iran	Engage in negotiation	Iraq	2014-09-28
+Iran	Engage in negotiation	France	2014-11-21
+Iran	Engage in negotiation	Armenia	2014-11-21
+Iran	Engage in negotiation	RIA Novosti	2014-11-23
+Iran	Engage in negotiation	UN Security Council	2014-11-25
+Iran	Engage in negotiation	Government (United States)	2014-12-11
+Bertie Ahern	Engage in negotiation	Iran	2014-02-07
+John Kerry	Engage in negotiation	Iran	2014-02-09
+John Kerry	Engage in negotiation	Head of Government (Ethiopia)	2014-05-02
+John Kerry	Engage in negotiation	Iraq	2014-06-23
+John Kerry	Engage in negotiation	Mohammad Javad Zarif	2014-09-22
+Head of Government (Ethiopia)	Engage in negotiation	Abdel Fattah Al-Sisi	2014-06-29
+Head of Government (Ethiopia)	Engage in negotiation	Demeke Mekonnen	2014-09-15
+Abdel Fattah Al-Sisi	Engage in negotiation	Head of Government (Ethiopia)	2014-06-29
+Abdel Fattah Al-Sisi	Engage in negotiation	Foreign Affairs (Norway)	2014-09-09
+Abdel Fattah Al-Sisi	Engage in negotiation	John Kerry	2014-09-13
+Abdel Fattah Al-Sisi	Engage in negotiation	Envoy (Saudi Arabia)	2014-12-21
+Iraq	Engage in negotiation	John Kerry	2014-06-23
+Mohammad Javad Zarif	Engage in negotiation	Catherine Ashton	2014-10-15
+Mohammad Javad Zarif	Engage in negotiation	Undersecretary (United States)	2014-11-19
+South Sudan	Express intent to cooperate	Sudan	2014-01-07
+Sudan	Express intent to cooperate	Vietnam	2014-04-17
+Sudan	Express intent to cooperate	Ethiopia	2014-08-29
+Sudan	Express intent to cooperate	Ethiopia	2014-09-05
+Vietnam	Express intent to cooperate	Sudan	2014-04-17
+Vietnam	Express intent to cooperate	Cambodia	2014-06-27
+Vietnam	Express intent to cooperate	Thailand	2014-07-17
+Vietnam	Express intent to cooperate	Thailand	2014-11-27
+Vietnam	Express intent to cooperate	China	2014-12-26
+Thailand	Express intent to cooperate	Cambodia	2014-10-17
+Thailand	Express intent to cooperate	Vietnam	2014-12-22
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	China	2014-02-06
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	China	2014-05-02
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	China	2014-05-26
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	Ethiopia	2014-07-14
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	Japan	2014-09-19
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	North Korea	2014-10-03
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	North Korea	2014-10-07
+South Korea	Express intent to engage in diplomatic cooperation (such as policy support)	North Korea	2014-11-19
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Togo	2014-02-11
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Trinidad and Tobago	2014-02-26
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Trinidad and Tobago	2014-02-27
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Iran	2014-03-06
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Afghanistan	2014-03-08
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Tajikistan	2014-04-01
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Sudan	2014-04-03
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Iran	2014-05-07
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Ethiopia	2014-05-11
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Angola	2014-05-12
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Other Authorities / Officials (China)	2014-06-28
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Tanzania	2014-07-02
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Malaysia	2014-09-01
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Armenia	2014-09-03
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Malaysia	2014-10-08
+China	Express intent to engage in diplomatic cooperation (such as policy support)	France	2014-10-20
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Thailand	2014-11-03
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Japan	2014-11-27
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Thailand	2014-12-23
+China	Express intent to engage in diplomatic cooperation (such as policy support)	Japan	2014-12-24
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	United Arab Emirates	2014-04-14
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Slovenia	2014-05-11
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-06-24
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-06-29
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-07-27
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-08-13
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-09-16
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	China	2014-11-17
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-12-04
+Iran	Express intent to engage in diplomatic cooperation (such as policy support)	Iraq	2014-12-08
+Afghanistan	Express intent to engage in diplomatic cooperation (such as policy support)	Tajikistan	2014-03-26
+Afghanistan	Express intent to engage in diplomatic cooperation (such as policy support)	Veterans (Afghanistan)	2014-10-01
+Afghanistan	Express intent to engage in diplomatic cooperation (such as policy support)	Veterans (Afghanistan)	2014-10-05
+Sudan	Express intent to engage in diplomatic cooperation (such as policy support)	South Sudan	2014-11-02
+Armenia	Express intent to engage in diplomatic cooperation (such as policy support)	Iran	2014-10-20
+France	Express intent to engage in diplomatic cooperation (such as policy support)	China	2014-10-20
+France	Express intent to engage in diplomatic cooperation (such as policy support)	Verkhovna Rada	2014-10-27
+Japan	Express intent to engage in diplomatic cooperation (such as policy support)	Government (Pakistan)	2014-12-17
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	John Kerry	2014-01-05
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	John Kerry	2014-01-10
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Kuwait	2014-02-19
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Iraq	2014-02-20
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	John Kerry	2014-03-12
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Cabinet / Council of Ministers / Advisors (United States)	2014-03-24
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Kazakhstan	2014-04-03
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	China	2014-04-14
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	China	2014-04-15
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Vietnam	2014-04-15
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Rashid Meredov	2014-04-21
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Foreign Affairs (Venezuela)	2014-05-28
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Saud bin Faisal bin Abdul-Aziz	2014-06-20
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Mulatu Teshome	2014-08-25
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Citizen (North Korea)	2014-09-29
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	France	2014-10-07
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Citizen (Germany)	2014-11-13
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	Peter Szijjarto	2014-11-18
+Sergey Viktorovich Lavrov	Express intent to meet or negotiate	John Kerry	2014-12-14
+John Kerry	Express intent to meet or negotiate	Kuwait	2014-01-13
+John Kerry	Express intent to meet or negotiate	China	2014-01-23
+John Kerry	Express intent to meet or negotiate	Vitali Klitschko	2014-02-03
+John Kerry	Express intent to meet or negotiate	South Korea	2014-02-03
+John Kerry	Express intent to meet or negotiate	Citizen (South Korea)	2014-02-11
+John Kerry	Express intent to meet or negotiate	Poland	2014-03-05
+John Kerry	Express intent to meet or negotiate	Morocco	2014-03-27
+John Kerry	Express intent to meet or negotiate	Joseph Kabila	2014-04-29
+John Kerry	Express intent to meet or negotiate	Nasser Judeh	2014-06-20
+John Kerry	Express intent to meet or negotiate	Middle East	2014-06-21
+John Kerry	Express intent to meet or negotiate	Nuri al-Maliki	2014-06-23
+John Kerry	Express intent to meet or negotiate	Mohammad Javad Zarif	2014-07-13
+John Kerry	Express intent to meet or negotiate	Benjamin Netanyahu	2014-07-23
+John Kerry	Express intent to meet or negotiate	Ashraf Ghani Ahmadzai	2014-08-07
+John Kerry	Express intent to meet or negotiate	Myanmar	2014-08-09
+John Kerry	Express intent to meet or negotiate	Julie Bishop	2014-08-10
+John Kerry	Express intent to meet or negotiate	Government Official (Solomon Islands)	2014-08-13
+John Kerry	Express intent to meet or negotiate	Catherine Ashton	2014-10-10
+John Kerry	Express intent to meet or negotiate	Mohamed al-Dairi	2014-10-13
+John Kerry	Express intent to meet or negotiate	France	2014-10-16
+John Kerry	Express intent to meet or negotiate	France	2014-10-31
+John Kerry	Express intent to meet or negotiate	Mohammad Javad Zarif	2014-11-03
+John Kerry	Express intent to meet or negotiate	China	2014-11-04
+John Kerry	Express intent to meet or negotiate	Benjamin Netanyahu	2014-12-13
+Kuwait	Express intent to meet or negotiate	Iran	2014-09-20
+Iran	Express intent to meet or negotiate	Mohammad Javad Zarif	2014-11-08
+Iran	Express intent to meet or negotiate	Iraq	2014-12-03
+Iran	Express intent to meet or negotiate	France	2014-12-16
+China	Express intent to meet or negotiate	France	2014-02-03
+China	Express intent to meet or negotiate	France	2014-02-04
+China	Express intent to meet or negotiate	Iran	2014-04-17
+China	Express intent to meet or negotiate	Malaysia	2014-05-03
+China	Express intent to meet or negotiate	South Korea	2014-05-22
+China	Express intent to meet or negotiate	Xi Jinping	2014-06-28
+China	Express intent to meet or negotiate	Foreign Affairs (South Korea)	2014-09-05
+China	Express intent to meet or negotiate	South Korea	2014-09-06
+China	Express intent to meet or negotiate	Japan	2014-09-06
+China	Express intent to meet or negotiate	South Korea	2014-09-11
+China	Express intent to meet or negotiate	Milos Zeman	2014-10-17
+China	Express intent to meet or negotiate	South Korea	2014-11-03
+China	Express intent to meet or negotiate	Japan	2014-11-08
+China	Express intent to meet or negotiate	Other Authorities / Officials (United States)	2014-12-13
+Malaysia	Express intent to meet or negotiate	China	2014-05-04
+Malaysia	Express intent to meet or negotiate	Citizen (Malaysia)	2014-06-10
+Malaysia	Express intent to meet or negotiate	Thailand	2014-12-08
+South Korea	Express intent to meet or negotiate	Japan	2014-07-12
+South Korea	Express intent to meet or negotiate	Japan	2014-07-18
+South Korea	Express intent to meet or negotiate	North Korea	2014-08-25
+South Korea	Express intent to meet or negotiate	China	2014-09-11
+South Korea	Express intent to meet or negotiate	China	2014-10-16
+South Korea	Express intent to meet or negotiate	Japan	2014-12-29
+Xi Jinping	Express intent to meet or negotiate	South Korea	2014-07-02
+Xi Jinping	Express intent to meet or negotiate	Member of Legislative (Govt) (South Korea)	2014-07-03
+Xi Jinping	Express intent to meet or negotiate	Barack Obama	2014-07-14
+Xi Jinping	Express intent to meet or negotiate	Citizen (Venezuela)	2014-07-20
+Xi Jinping	Express intent to meet or negotiate	Barack Obama	2014-08-28
+Xi Jinping	Express intent to meet or negotiate	Fiji	2014-11-12
+Xi Jinping	Express intent to meet or negotiate	Frank Bainimarama	2014-11-21
+Barack Obama	Express intent to meet or negotiate	Xi Jinping	2014-07-14
+Barack Obama	Express intent to meet or negotiate	Citizen (International)	2014-08-27
+Barack Obama	Express intent to meet or negotiate	Abdel Fattah Al-Sisi	2014-09-25
+Barack Obama	Express intent to meet or negotiate	Hamas	2014-10-01
+Barack Obama	Express intent to meet or negotiate	Myanmar	2014-10-31
+Barack Obama	Express intent to meet or negotiate	Xi Jinping	2014-11-03
+Barack Obama	Express intent to meet or negotiate	China	2014-11-04
+Barack Obama	Express intent to meet or negotiate	China	2014-11-05
+Barack Obama	Express intent to meet or negotiate	Xi Jinping	2014-11-06
+Barack Obama	Express intent to meet or negotiate	Head of Government (India)	2014-11-21
+Citizen (International)	Express intent to meet or negotiate	Myanmar	2014-11-05
+Citizen (Venezuela)	Express intent to meet or negotiate	Organization of Petroleum Exporting Countries	2014-10-10
+Vitali Klitschko	Express intent to meet or negotiate	Arseniy Yatsenyuk	2014-02-18
+Arseniy Yatsenyuk	Express intent to meet or negotiate	Joseph Robinette Biden	2014-10-30
+Arseniy Yatsenyuk	Express intent to meet or negotiate	Jens Stoltenberg	2014-12-12
+Benjamin Netanyahu	Express intent to meet or negotiate	John Kerry	2014-11-14
+Benjamin Netanyahu	Express intent to meet or negotiate	Tzipi Livni	2014-12-02
+Ashraf Ghani Ahmadzai	Express intent to meet or negotiate	China	2014-10-22
+Ashraf Ghani Ahmadzai	Express intent to meet or negotiate	China	2014-10-25
+Ashraf Ghani Ahmadzai	Express intent to meet or negotiate	Zhang Dejiang	2014-10-27
+Ashraf Ghani Ahmadzai	Express intent to meet or negotiate	Head of Government (Pakistan)	2014-11-16
+Ashraf Ghani Ahmadzai	Express intent to meet or negotiate	Head of Government (Afghanistan)	2014-12-04
+Julie Bishop	Express intent to meet or negotiate	North Atlantic Treaty Organization	2014-09-01
+North Korea	Host a visit	Kim Jong-Un	2014-01-01
+North Korea	Host a visit	Liu Zhenmin	2014-02-18
+North Korea	Host a visit	Barack Obama	2014-04-25
+North Korea	Host a visit	Kim Jong-Un	2014-06-12
+North Korea	Host a visit	China	2014-07-01
+North Korea	Host a visit	Japan	2014-07-05
+North Korea	Host a visit	Kim Jong-Un	2014-10-14
+North Korea	Host a visit	Japan	2014-10-15
+North Korea	Host a visit	Government Official (Japan)	2014-10-29
+Barack Obama	Host a visit	Head of Government (Chile)	2014-06-30
+China	Host a visit	Head of Government (Germany)	2014-07-05
+China	Host a visit	Cabinet / Council of Ministers / Advisors (United States)	2014-07-08
+China	Host a visit	Chuck Hagel	2014-07-10
+China	Host a visit	John Kerry	2014-07-20
+China	Host a visit	Kazakhstan	2014-08-19
+China	Host a visit	Islam Karimov	2014-08-22
+China	Host a visit	Envoy (Vietnam)	2014-08-27
+China	Host a visit	Envoy (Vietnam)	2014-08-28
+China	Host a visit	Barack Obama	2014-09-09
+China	Host a visit	Barnaby Joyce	2014-09-16
+China	Host a visit	Barack Obama	2014-10-02
+China	Host a visit	Evo Morales	2014-10-14
+China	Host a visit	Barack Obama	2014-10-14
+China	Host a visit	Teo Chee Hean	2014-10-28
+China	Host a visit	Middle East	2014-10-28
+China	Host a visit	Cabinet / Council of Ministers / Advisors (United States)	2014-11-04
+China	Host a visit	Milos Zeman	2014-11-04
+China	Host a visit	Barack Obama	2014-11-07
+China	Host a visit	Head of Government (Afghanistan)	2014-11-10
+China	Host a visit	Head of Government (Chile)	2014-11-12
+China	Host a visit	Barack Obama	2014-11-15
+China	Host a visit	Milos Zeman	2014-11-15
+China	Host a visit	Defense / Security Ministry (Russia)	2014-11-17
+China	Host a visit	Bratislav Gasic	2014-11-21
+China	Host a visit	Tan Sri Muhyiddin Yassin	2014-12-06
+China	Host a visit	Vyacheslav Shport	2014-12-17
+China	Host a visit	Barack Obama	2014-12-25
+China	Host a visit	Le Hong Anh	2014-12-26
+China	Host a visit	Abdel Fattah Al-Sisi	2014-12-26
+John Kerry	Host a visit	Abdel Fattah Al-Sisi	2014-09-13
+Kazakhstan	Host a visit	UN Security Council	2014-09-17
+Kazakhstan	Host a visit	François Hollande	2014-12-09
+Kazakhstan	Host a visit	Xi Jinping	2014-12-15
+Iran	Host a visit	Lawmaker (United Kingdom)	2014-01-04
+Iran	Host a visit	Ertharin Cousin	2014-01-22
+Iran	Host a visit	Foreign Affairs (Venezuela)	2014-01-26
+Iran	Host a visit	Radoslaw Sikorski	2014-02-01
+Iran	Host a visit	South Korea	2014-02-03
+Iran	Host a visit	France	2014-02-05
+Iran	Host a visit	Rashid Meredov	2014-02-15
+Iran	Host a visit	Business (New Zealand)	2014-02-19
+Iran	Host a visit	Organisation of Islamic Cooperation	2014-03-02
+Iran	Host a visit	South Korea	2014-03-02
+Iran	Host a visit	Catherine Ashton	2014-03-07
+Iran	Host a visit	Mohammad Javad Zarif	2014-03-09
+Iran	Host a visit	Evangelos Venizelos	2014-03-15
+Iran	Host a visit	Catherine Ashton	2014-03-15
+Iran	Host a visit	Catherine Ashton	2014-03-22
+Iran	Host a visit	Ministry (Turkey)	2014-04-16
+Iran	Host a visit	Foreign Affairs (Austria)	2014-04-27
+Iran	Host a visit	Defense / Security Ministry (Azerbaijan)	2014-05-23
+Iran	Host a visit	Catherine Ashton	2014-05-31
+Iran	Host a visit	Foreign Affairs (Luxembourg)	2014-06-03
+Iran	Host a visit	Majid Takht Ravanchi	2014-06-13
+Iran	Host a visit	South Korea	2014-06-21
+Iran	Host a visit	Kazakhstan	2014-08-01
+Iran	Host a visit	Foreign Affairs (Benin)	2014-08-28
+Iran	Host a visit	Mohammad Javad Zarif	2014-08-29
+Iran	Host a visit	Martin Lidegaard	2014-09-06
+Iran	Host a visit	Lawyer/Attorney (United Kingdom)	2014-09-21
+Iran	Host a visit	Military (China)	2014-09-22
+Iran	Host a visit	Haider Al-Abadi	2014-09-25
+Iran	Host a visit	Ri Su Yong	2014-10-17
+Iran	Host a visit	Iraq	2014-10-21
+Iran	Host a visit	Haider Al-Abadi	2014-10-25
+Iran	Host a visit	Staffan de Mistura	2014-10-27
+Iran	Host a visit	Tourist (South Korea)	2014-10-27
+Iran	Host a visit	Foreign Affairs (Norway)	2014-11-03
+Iran	Host a visit	Wael al-Halki	2014-12-18
+Iran	Host a visit	Foreign Affairs (Belarus)	2014-12-29
+Iran	Host a visit	Defense / Security Ministry (Iraq)	2014-12-30
+South Korea	Host a visit	Foreign Affairs (United States)	2014-02-10
+South Korea	Host a visit	Barack Obama	2014-02-18
+South Korea	Host a visit	Barack Obama	2014-04-05
+South Korea	Host a visit	Barack Obama	2014-04-26
+South Korea	Host a visit	Malaysia	2014-04-26
+South Korea	Host a visit	Kim Jong-Un	2014-06-20
+South Korea	Host a visit	China	2014-06-28
+South Korea	Host a visit	Xi Jinping	2014-07-02
+South Korea	Host a visit	Xi Jinping	2014-07-03
+South Korea	Host a visit	China	2014-07-03
+South Korea	Host a visit	Xi Jinping	2014-07-04
+South Korea	Host a visit	Xi Jinping	2014-07-05
+South Korea	Host a visit	Xi Jinping	2014-08-03
+South Korea	Host a visit	Nguyen Phu Trong	2014-10-01
+South Korea	Host a visit	Kim Jong-Un	2014-10-04
+South Korea	Host a visit	North Korea	2014-10-19
+South Korea	Host a visit	Ryoo Kihl-jae	2014-12-10
+Malaysia	Host a visit	Barack Obama	2014-04-27
+Malaysia	Host a visit	Thailand	2014-12-10
+Thailand	Host a visit	Vietnam	2014-12-29
+France	Host a visit	Cabinet / Council of Ministers / Advisors (United States)	2014-02-18
+France	Host a visit	Angela Merkel	2014-02-19
+France	Host a visit	Xi Jinping	2014-03-23
+France	Host a visit	China	2014-03-25
+France	Host a visit	Xi Jinping	2014-03-25
+France	Host a visit	Youssef Boutros Ghali	2014-04-16
+France	Host a visit	Industry (Tunisia)	2014-04-27
+France	Host a visit	Tajikistan	2014-06-09
+France	Host a visit	Royal Administration (Spain)	2014-07-22
+France	Host a visit	Veterans (United States)	2014-08-31
+France	Host a visit	Xi Jinping	2014-09-16
+France	Host a visit	Poland	2014-10-02
+France	Host a visit	Elmar Mammadyarov	2014-10-03
+France	Host a visit	John Kerry	2014-10-13
+France	Host a visit	Sergey Viktorovich Lavrov	2014-10-14
+France	Host a visit	Foreign Affairs (United States)	2014-11-04
+France	Host a visit	Abdel Fattah Al-Sisi	2014-11-21
+France	Host a visit	Abdel Fattah Al-Sisi	2014-11-29
+Tajikistan	Host a visit	Xi Jinping	2014-09-20
+Tajikistan	Host a visit	Foreign Affairs (Belarus)	2014-10-20
+Tajikistan	Host a visit	Afghanistan	2014-12-04
+Afghanistan	Host a visit	Inter Service Intelligence (Pakistan)	2014-12-20
+Poland	Host a visit	North Atlantic Treaty Organization	2014-10-05
+Poland	Host a visit	Head of Government (Ukraine)	2014-12-15
+Royal Administration (Jordan)	Make a visit	Benjamin Netanyahu	2014-01-16
+Benjamin Netanyahu	Make a visit	Barack Obama	2014-02-20
+Benjamin Netanyahu	Make a visit	Barack Obama	2014-02-27
+Benjamin Netanyahu	Make a visit	Japan	2014-05-15
+Barack Obama	Make a visit	Japan	2014-03-12
+Barack Obama	Make a visit	South Korea	2014-03-15
+Barack Obama	Make a visit	China	2014-03-25
+Barack Obama	Make a visit	Japan	2014-04-09
+Barack Obama	Make a visit	South Korea	2014-04-15
+Barack Obama	Make a visit	Japan	2014-04-20
+Barack Obama	Make a visit	South Korea	2014-04-23
+Barack Obama	Make a visit	Philippines	2014-04-24
+Barack Obama	Make a visit	Emperor Akihito	2014-04-24
+Barack Obama	Make a visit	Japan	2014-04-26
+Barack Obama	Make a visit	South Korea	2014-04-26
+Barack Obama	Make a visit	Japan	2014-04-29
+Barack Obama	Make a visit	Philippines	2014-04-29
+Barack Obama	Make a visit	Japan	2014-05-02
+Barack Obama	Make a visit	South Korea	2014-05-09
+Barack Obama	Make a visit	South Korea	2014-05-12
+Barack Obama	Make a visit	Afghanistan	2014-05-28
+Barack Obama	Make a visit	Afghanistan	2014-06-11
+Barack Obama	Make a visit	China	2014-10-02
+Barack Obama	Make a visit	Myanmar	2014-11-06
+Barack Obama	Make a visit	China	2014-11-10
+Barack Obama	Make a visit	China	2014-11-13
+Barack Obama	Make a visit	Canada	2014-11-22
+South Korea	Make a visit	North Korea	2014-07-02
+South Korea	Make a visit	North Korea	2014-08-29
+Emperor Akihito	Make a visit	Benjamin Netanyahu	2014-05-13
+Head of Government (Nigeria)	Make an appeal or request	Assemblies (Nigeria)	2014-01-09
+Head of Government (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-06-10
+Head of Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-07-18
+Head of Government (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-07-21
+Head of Government (Nigeria)	Make an appeal or request	Mallam Isa Yuguda	2014-07-29
+Head of Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-08-04
+Head of Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-09-15
+Head of Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-11-07
+Head of Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-11-29
+Government (Nigeria)	Make an appeal or request	UN Security Council	2014-06-10
+Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-06-17
+Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-07-18
+Government (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-09-01
+UN Security Council	Make an appeal or request	South Sudan	2014-08-27
+UN Security Council	Make an appeal or request	Citizen (Mali)	2014-10-17
+UN Security Council	Make an appeal or request	Government (Sudan)	2014-11-19
+UN Security Council	Make an appeal or request	Sudan	2014-11-20
+Citizen (Nigeria)	Make an appeal or request	Mallam Isa Yuguda	2014-06-30
+Citizen (Nigeria)	Make an appeal or request	Muslim (Nigeria)	2014-07-01
+Citizen (Nigeria)	Make an appeal or request	Other Authorities / Officials (Nigeria)	2014-07-02
+Citizen (Nigeria)	Make an appeal or request	Member of the Judiciary (Nigeria)	2014-07-04
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-07-07
+Citizen (Nigeria)	Make an appeal or request	Olagunsoye Oyinlola	2014-07-14
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-07-18
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-07-28
+Citizen (Nigeria)	Make an appeal or request	Treasury/Finance Ministry (Nigeria)	2014-07-29
+Citizen (Nigeria)	Make an appeal or request	Court Judge (Nigeria)	2014-08-04
+Citizen (Nigeria)	Make an appeal or request	Rauf Aregbesola	2014-08-12
+Citizen (Nigeria)	Make an appeal or request	Scientist (Nigeria)	2014-08-22
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-08-22
+Citizen (Nigeria)	Make an appeal or request	Nurse (Nigeria)	2014-09-01
+Citizen (Nigeria)	Make an appeal or request	Emmanuel Eweta Uduaghan	2014-09-01
+Citizen (Nigeria)	Make an appeal or request	Assemblies (Nigeria)	2014-09-04
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-09-15
+Citizen (Nigeria)	Make an appeal or request	Assemblies (Nigeria)	2014-09-22
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-09-23
+Citizen (Nigeria)	Make an appeal or request	Muslim (Nigeria)	2014-09-29
+Citizen (Nigeria)	Make an appeal or request	Oluṣẹgun Ọbasanjọ	2014-10-06
+Citizen (Nigeria)	Make an appeal or request	Company - Owner or Operator (Nigeria)	2014-10-08
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-10-14
+Citizen (Nigeria)	Make an appeal or request	Member of the Judiciary (Nigeria)	2014-10-20
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-10-21
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-10-24
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-10-31
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-11-10
+Citizen (Nigeria)	Make an appeal or request	Other Authorities / Officials (Nigeria)	2014-11-10
+Citizen (Nigeria)	Make an appeal or request	Member of the Judiciary (Nigeria)	2014-11-27
+Citizen (Nigeria)	Make an appeal or request	Member of the Judiciary (Nigeria)	2014-11-28
+Citizen (Nigeria)	Make an appeal or request	Public Courts (Nigeria)	2014-12-20
+Citizen (Nigeria)	Make an appeal or request	Government (Nigeria)	2014-12-29
+Citizen (Nigeria)	Make an appeal or request	Ministry (Nigeria)	2014-12-29
+Citizen (Nigeria)	Make an appeal or request	Assemblies (Nigeria)	2014-12-29
+Mallam Isa Yuguda	Make an appeal or request	Muslim (Nigeria)	2014-12-29
+Other Authorities / Officials (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-07-25
+Other Authorities / Officials (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-10-16
+Other Authorities / Officials (Nigeria)	Make an appeal or request	Representatives (Nigeria)	2014-11-17
+Other Authorities / Officials (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-12-29
+Court Judge (Nigeria)	Make an appeal or request	Citizen (Nigeria)	2014-10-23
+Rauf Aregbesola	Make an appeal or request	Public Courts (Nigeria)	2014-09-26
+Media Personnel (Australia)	Make optimistic comment	Citizen (Australia)	2014-03-18
+Citizen (Australia)	Make optimistic comment	Lawyer/Attorney (Australia)	2014-05-16
+Lawyer/Attorney (Australia)	Make optimistic comment	Domestic Affairs (Australia)	2014-07-22
+Military Personnel - Special (Afghanistan)	Make statement	Afghanistan	2014-01-01
+Military Personnel - Special (Afghanistan)	Make statement	Armed Gang (Afghanistan)	2014-01-18
+Afghanistan	Make statement	Iran	2014-02-19
+Afghanistan	Make statement	Representatives (Afghanistan)	2014-08-04
+Iran	Make statement	Reserve Personnel (Iran)	2014-03-01
+Iran	Make statement	Mohammad Javad Zarif	2014-03-10
+Iran	Make statement	China	2014-05-28
+Iran	Make statement	Vietnam	2014-11-19
+Iran	Make statement	Afghanistan	2014-11-21
+Iran	Make statement	Member of Parliament (Iran)	2014-11-29
+Iran	Make statement	Iraq	2014-12-07
+Mohammad Javad Zarif	Make statement	Iran	2014-03-18
+Mohammad Javad Zarif	Make statement	Iran	2014-03-28
+Mohammad Javad Zarif	Make statement	Iran	2014-04-15
+Mohammad Javad Zarif	Make statement	Iran	2014-04-24
+Mohammad Javad Zarif	Make statement	Iran	2014-05-15
+Mohammad Javad Zarif	Make statement	Catherine Ashton	2014-06-19
+Mohammad Javad Zarif	Make statement	Iran	2014-06-21
+Mohammad Javad Zarif	Make statement	Iran	2014-07-08
+Mohammad Javad Zarif	Make statement	China	2014-07-17
+Mohammad Javad Zarif	Make statement	Iran	2014-07-20
+Mohammad Javad Zarif	Make statement	Iran	2014-08-04
+Mohammad Javad Zarif	Make statement	Oman	2014-08-07
+Mohammad Javad Zarif	Make statement	Terrorist Leader (Syria)	2014-09-02
+Mohammad Javad Zarif	Make statement	Iran	2014-09-18
+Mohammad Javad Zarif	Make statement	Iraq	2014-10-06
+Mohammad Javad Zarif	Make statement	Iran	2014-10-30
+Mohammad Javad Zarif	Make statement	China	2014-11-02
+Mohammad Javad Zarif	Make statement	Iran	2014-11-25
+Mohammad Javad Zarif	Make statement	Iran	2014-12-29
+Mohammad Javad Zarif	Make statement	Iran	2014-12-30
+Catherine Ashton	Make statement	ITAR TASS	2014-10-20
+China	Make statement	Defense / Security Ministry (China)	2014-07-31
+China	Make statement	Peter Humphrey	2014-08-08
+China	Make statement	Fighter Bomber (China)	2014-09-11
+China	Make statement	Lawmaker (United Kingdom)	2014-12-01
+China	Make statement	Iran	2014-12-04
+China	Make statement	Thailand	2014-12-24
+Defense / Security Ministry (China)	Make statement	Chang Wanquan	2014-10-23
+Defense / Security Ministry (China)	Make statement	China	2014-12-14
+Vietnam	Make statement	Ethiopia	2014-11-28
+Representatives (Afghanistan)	Make statement	Secret Agent (Afghanistan)	2014-11-30
+Police (Philippines)	Make statement	Military (Philippines)	2014-01-05
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-02-15
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-02-24
+Police (Philippines)	Make statement	Military (Philippines)	2014-02-25
+Police (Philippines)	Make statement	Employee (Philippines)	2014-03-02
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-05-06
+Police (Philippines)	Make statement	Secret Agent (Philippines)	2014-06-13
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-07-05
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-07-10
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-08-04
+Police (Philippines)	Make statement	Philippines	2014-09-30
+Police (Philippines)	Make statement	Philippines	2014-10-29
+Police (Philippines)	Make statement	Employee (Philippines)	2014-11-30
+Police (Philippines)	Make statement	Military (Philippines)	2014-12-04
+Police (Philippines)	Make statement	Philippines	2014-12-06
+Police (Philippines)	Make statement	Criminal (Philippines)	2014-12-27
+Military (Philippines)	Make statement	Abu Sayyaf	2014-01-07
+Military (Philippines)	Make statement	Philippines	2014-04-04
+Military (Philippines)	Make statement	Philippines	2014-10-20
+Abu Sayyaf	Make statement	Criminal (Southeast Asia)	2014-08-05
+Philippines	Make statement	City Mayor (Philippines)	2014-09-21
+Philippines	Make statement	Congress (Philippines)	2014-09-28
+City Mayor (Philippines)	Make statement	Philippines	2014-12-05
+City Mayor (Philippines)	Make statement	Philippines	2014-12-07
+Government (Palestinian Territory, Occupied)	Make statement	John Kerry	2014-01-06
+John Kerry	Make statement	Benjamin Netanyahu	2014-01-10
+John Kerry	Make statement	Iran	2014-02-04
+John Kerry	Make statement	South Korea	2014-02-10
+John Kerry	Make statement	China	2014-02-15
+John Kerry	Make statement	Foreign Affairs (Russia)	2014-02-27
+John Kerry	Make statement	Fumio Kishida	2014-03-23
+John Kerry	Make statement	Sergey Viktorovich Lavrov	2014-03-31
+John Kerry	Make statement	Sergey Viktorovich Lavrov	2014-04-02
+John Kerry	Make statement	Iraq	2014-06-24
+John Kerry	Make statement	Presidential Candidate (Afghanistan)	2014-07-12
+John Kerry	Make statement	Hamas	2014-07-24
+John Kerry	Make statement	Japan	2014-07-29
+John Kerry	Make statement	Israeli Defense Forces	2014-07-31
+John Kerry	Make statement	Myanmar	2014-08-11
+John Kerry	Make statement	Iraq	2014-09-08
+John Kerry	Make statement	Iraq	2014-10-19
+John Kerry	Make statement	Middle East	2014-11-01
+John Kerry	Make statement	Iraq	2014-12-04
+Benjamin Netanyahu	Make statement	Israeli Defense Forces	2014-03-20
+Benjamin Netanyahu	Make statement	Hamas	2014-04-24
+Benjamin Netanyahu	Make statement	Iran	2014-04-27
+Benjamin Netanyahu	Make statement	Japan	2014-05-12
+Benjamin Netanyahu	Make statement	Iran	2014-05-16
+Benjamin Netanyahu	Make statement	China	2014-05-20
+Benjamin Netanyahu	Make statement	Hamas	2014-06-01
+Benjamin Netanyahu	Make statement	Israeli Defense Forces	2014-06-20
+Benjamin Netanyahu	Make statement	Israeli Defense Forces	2014-07-10
+Benjamin Netanyahu	Make statement	Iran	2014-07-14
+Benjamin Netanyahu	Make statement	Israeli Defense Forces	2014-08-03
+Benjamin Netanyahu	Make statement	Israeli Defense Forces	2014-08-06
+Benjamin Netanyahu	Make statement	Iran	2014-10-01
+Benjamin Netanyahu	Make statement	Iran	2014-11-10
+Benjamin Netanyahu	Make statement	Yair Lapid	2014-12-02
+Israeli Defense Forces	Make statement	Benny Gantz	2014-05-20
+Israeli Defense Forces	Make statement	Hamas	2014-08-06
+Israeli Defense Forces	Make statement	Hamas	2014-12-24
+Hamas	Make statement	Islamic Militant (Palestinian Territory, Occupied)	2014-08-21
+Japan	Make statement	North Korea	2014-07-04
+Japan	Make statement	South Korea	2014-10-02
+Japan	Make statement	Airman (Japan)	2014-10-05
+Japan	Make statement	China	2014-11-06
+Foreign Affairs (Russia)	Make statement	Sergey Viktorovich Lavrov	2014-03-03
+Foreign Affairs (Russia)	Make statement	China	2014-03-04
+Foreign Affairs (Russia)	Make statement	North Atlantic Treaty Organization	2014-03-07
+Foreign Affairs (Russia)	Make statement	John Kerry	2014-04-13
+Foreign Affairs (Russia)	Make statement	Sergey Viktorovich Lavrov	2014-04-23
+Foreign Affairs (Russia)	Make statement	North Atlantic Treaty Organization	2014-05-01
+Foreign Affairs (Russia)	Make statement	Other Authorities / Officials (Romania)	2014-05-18
+Foreign Affairs (Russia)	Make statement	Iraq	2014-07-02
+Foreign Affairs (Russia)	Make statement	Maldives	2014-07-08
+Foreign Affairs (Russia)	Make statement	Edgars Rinkevics	2014-07-22
+Foreign Affairs (Russia)	Make statement	John Kerry	2014-07-29
+Foreign Affairs (Russia)	Make statement	Other Authorities / Officials (Russia)	2014-08-14
+Foreign Affairs (Russia)	Make statement	RIA Novosti	2014-08-23
+Foreign Affairs (Russia)	Make statement	North Atlantic Treaty Organization	2014-11-19
+Foreign Affairs (Russia)	Make statement	Afghanistan	2014-12-23
+Sergey Viktorovich Lavrov	Make statement	Interfax	2014-04-10
+Sergey Viktorovich Lavrov	Make statement	Foreign Affairs (Ukraine)	2014-04-21
+Sergey Viktorovich Lavrov	Make statement	Joseph Robinette Biden	2014-04-25
+Sergey Viktorovich Lavrov	Make statement	UN Security Council	2014-07-29
+Sergey Viktorovich Lavrov	Make statement	Afghanistan	2014-08-04
+Sergey Viktorovich Lavrov	Make statement	Media (Russia)	2014-08-18
+Sergey Viktorovich Lavrov	Make statement	Defense / Security Ministry (Ukraine)	2014-09-17
+Sergey Viktorovich Lavrov	Make statement	Armenia	2014-12-05
+Sergey Viktorovich Lavrov	Make statement	ITAR TASS	2014-12-16
+Sergey Viktorovich Lavrov	Make statement	ITAR TASS	2014-12-27
+Interfax	Make statement	Semen Semenchenko	2014-05-06
+Interfax	Make statement	Sergey Kuzhugetovich Shoygu	2014-07-09
+Interfax	Make statement	Military (Russia)	2014-08-08
+Interfax	Make statement	Armed Rebel (Ukraine)	2014-10-01
+Sergey Kuzhugetovich Shoygu	Make statement	Interfax	2014-09-16
+Sergey Kuzhugetovich Shoygu	Make statement	Interfax	2014-12-02
+Foreign Affairs (Ukraine)	Make statement	Poland	2014-10-14
+Joseph Robinette Biden	Make statement	Iran	2014-12-06
+UN Security Council	Make statement	Legislature (Iraq)	2014-09-16
+North Atlantic Treaty Organization	Make statement	Interfax	2014-05-07
+North Atlantic Treaty Organization	Make statement	Military (Russia)	2014-09-11
+Edgars Rinkevics	Make statement	Foreign Affairs (Latvia)	2014-11-15
+RIA Novosti	Make statement	Other Authorities / Officials (Nigeria)	2014-12-07
+Azores	Make statement	Umaru Tanko Al-Makura	2014-01-13
+Umaru Tanko Al-Makura	Make statement	Government (Nigeria)	2014-06-12
+Umaru Tanko Al-Makura	Make statement	Government (Nigeria)	2014-09-08
+Government (Nigeria)	Make statement	Military Personnel - Special (Nigeria)	2014-06-20
+Panhellenic Socialist Movement	Make statement	Coalition of the Radical Left	2014-01-15
+Coalition of the Radical Left	Make statement	Antonis Samaras	2014-10-28
+Coalition of the Radical Left	Make statement	Antonis Samaras	2014-12-17
+Antonis Samaras	Make statement	New Democracy	2014-12-10
+Media Personnel (Saudi Arabia)	Make statement	Media (Saudi Arabia)	2014-01-28
+Media Personnel (Saudi Arabia)	Make statement	Police (Saudi Arabia)	2014-07-01
+Media Personnel (Saudi Arabia)	Make statement	Media (Saudi Arabia)	2014-10-01
+Media (Saudi Arabia)	Make statement	Bandar bin Sultan	2014-04-27
+Media (Saudi Arabia)	Make statement	Royal Administration (Saudi Arabia)	2014-05-20
+Royal Administration (Saudi Arabia)	Make statement	Shura Council	2014-12-29
+Alexander Kadakin	Make statement	Business (Russia)	2014-02-02
+Business (Russia)	Make statement	Other Authorities / Officials (Libya)	2014-02-23
+Business (Russia)	Make statement	Media (Russia)	2014-09-17
+Other Authorities / Officials (Libya)	Make statement	Ansar al-Sharia in Libya	2014-05-14
+Media Personnel (Thailand)	Make statement	Prayuth Chan-ocha	2014-02-03
+Media Personnel (Thailand)	Make statement	Military Personnel (Thailand)	2014-02-05
+Media Personnel (Thailand)	Make statement	Thailand	2014-03-08
+Media Personnel (Thailand)	Make statement	Abhisit Vejjajiva	2014-04-15
+Media Personnel (Thailand)	Make statement	National Council for Peace and Order of Thailand	2014-06-09
+Media Personnel (Thailand)	Make statement	Thailand	2014-06-13
+Media Personnel (Thailand)	Make statement	Thailand	2014-11-06
+Prayuth Chan-ocha	Make statement	Military (Thailand)	2014-05-20
+Prayuth Chan-ocha	Make statement	Military Personnel (Thailand)	2014-06-16
+Prayuth Chan-ocha	Make statement	National Council for Peace and Order of Thailand	2014-07-02
+Prayuth Chan-ocha	Make statement	National Council for Peace and Order of Thailand	2014-07-08
+Prayuth Chan-ocha	Make statement	Thailand	2014-07-21
+Prayuth Chan-ocha	Make statement	Thailand	2014-08-28
+Prayuth Chan-ocha	Make statement	Thailand	2014-09-18
+Prayuth Chan-ocha	Make statement	Thailand	2014-10-20
+Military (Thailand)	Make statement	Protester (Thailand)	2014-05-23
+Military (Thailand)	Make statement	Thailand	2014-05-24
+Military (Thailand)	Make statement	Media (Thailand)	2014-05-28
+Military Personnel (Thailand)	Make statement	Insurgent (Thailand)	2014-06-30
+Military Personnel (Thailand)	Make statement	National Council for Peace and Order of Thailand	2014-11-17
+Pier Ferdinando Casini	Praise or endorse	Iran	2014-01-06
+Iran	Praise or endorse	Afghanistan	2014-01-18
+Iran	Praise or endorse	Government (Syria)	2014-02-17
+Iran	Praise or endorse	Hamas	2014-08-04
+Iran	Praise or endorse	Nabih Berri	2014-08-11
+Iran	Praise or endorse	Iraq	2014-08-28
+Iran	Praise or endorse	Middle East	2014-09-07
+Iran	Praise or endorse	Government (Syria)	2014-09-30
+Iran	Praise or endorse	Government (Syria)	2014-12-18
+Iran	Praise or endorse	Iraq	2014-12-30
+Afghanistan	Praise or endorse	Party Member (Afghanistan)	2014-03-21
+Afghanistan	Praise or endorse	Iran	2014-08-18
+Government (Syria)	Praise or endorse	Armed Band (Syria)	2014-12-09
+Iraq	Praise or endorse	Haider Al-Abadi	2014-10-20
+John Kerry	Praise or endorse	North Korea	2014-02-13
+John Kerry	Praise or endorse	China	2014-02-14
+John Kerry	Praise or endorse	Arseniy Yatsenyuk	2014-03-12
+John Kerry	Praise or endorse	Benjamin Netanyahu	2014-04-10
+John Kerry	Praise or endorse	Iran	2014-05-13
+John Kerry	Praise or endorse	Abdel Fattah Al-Sisi	2014-06-22
+John Kerry	Praise or endorse	Iran	2014-07-13
+John Kerry	Praise or endorse	Japan	2014-09-24
+John Kerry	Praise or endorse	China	2014-11-09
+John Kerry	Praise or endorse	Foreign Affairs (Russia)	2014-12-14
+Benjamin Netanyahu	Praise or endorse	Israeli Defense Forces	2014-08-05
+Benjamin Netanyahu	Praise or endorse	Military (Lebanon)	2014-10-08
+Military (Lebanon)	Praise or endorse	Armed Rebel (Syria)	2014-10-19
+Armed Rebel (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-01-28
+Armed Rebel (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-02-06
+Armed Rebel (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-05-20
+Armed Rebel (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-06-19
+Armed Rebel (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-06-21
+Armed Rebel (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-10-17
+Armed Rebel (Yemen)	Use unconventional violence	Militant (Yemen)	2014-12-15
+Citizen (Yemen)	Use unconventional violence	Separatist (Yemen)	2014-02-18
+Citizen (Yemen)	Use unconventional violence	Militant (Yemen)	2014-09-01
+Citizen (Yemen)	Use unconventional violence	Militant (Yemen)	2014-09-19
+Citizen (Yemen)	Use unconventional violence	Party Member (Yemen)	2014-09-27
+Citizen (Yemen)	Use unconventional violence	Combatant (Yemen)	2014-10-20
+Citizen (Yemen)	Use unconventional violence	Combatant (Houthis)	2014-11-11
+Citizen (Yemen)	Use unconventional violence	South Africa	2014-12-11
+Militant (Yemen)	Use unconventional violence	Citizen (Yemen)	2014-09-19
+Militant (Yemen)	Use unconventional violence	Party Member (Yemen)	2014-11-03
+Citizen (Thailand)	Use unconventional violence	Armed Gang (Thailand)	2014-02-03
+Armed Gang (Thailand)	Use unconventional violence	Children (Thailand)	2014-02-25
+Children (Thailand)	Use unconventional violence	Thailand	2014-08-14
+Military Personnel (Kenya)	fight with small arms and light weapons	Citizen (Kenya)	2014-01-28
+Citizen (Kenya)	fight with small arms and light weapons	Police (Kenya)	2014-06-05
+Police (Kenya)	fight with small arms and light weapons	Citizen (Kenya)	2014-07-30
+Police (Kenya)	fight with small arms and light weapons	Citizen (Kenya)	2014-08-06
+Police (Kenya)	fight with small arms and light weapons	Citizen (Kenya)	2014-08-26
+Police (Kenya)	fight with small arms and light weapons	Student (Kenya)	2014-09-29
