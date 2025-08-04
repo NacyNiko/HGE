@@ -9,6 +9,7 @@ Create a conda environment with pytorch and scikit-learn :
 conda create --name tkbc_env python=3.7
 source activate tkbc_env
 conda install --file requirements.txt -c pytorch
+(directly install by it will install pytorch with CPU version. If you want to install GPU version, please install manually.)
 ```
 
 Then install the kbc package to this environment
