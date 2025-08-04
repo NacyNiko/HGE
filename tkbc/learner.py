@@ -73,6 +73,10 @@ parser.add_argument(
     '--num_form', default="split", help="which num form will the model take"
 )
 
+parser.add_argument(
+    '--cycle', default="tlt-kge cycle", help="parameter for tlt-kge"
+)
+
 
 args = parser.parse_args()
 
