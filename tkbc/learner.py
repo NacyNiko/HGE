@@ -74,7 +74,7 @@ parser.add_argument(
 )
 
 parser.add_argument(
-    '--cycle', default="tlt-kge cycle", help="parameter for tlt-kge"
+    '--cycle',type=int, default="tlt-kge cycle", help="parameter for tlt-kge"
 )
 
 
